@@ -493,3 +493,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-05T21:43:44.712Z,38.2474,-118.3758,0.0,1.2,ml,9.0,196.39,0.163,0.1364,nn,nn00834950,2022-03-05T21:48:05.258Z,"28 km SW of Mina, Nevada",earthquake,,9.0,0.25,3.0,automatic,nn,nn
 2022-03-05T22:28:59.100Z,38.8073349,-122.793335,3.17,0.99,md,19.0,46.0,0.001662,0.02,nc,nc73701796,2022-03-05T22:30:36.493Z,"5km NW of The Geysers, CA",earthquake,0.31,0.56,0.23,2.0,automatic,nc,nc
 2022-03-05T20:14:27.804Z,-16.8919,-174.2584,143.1,4.5,mb,,62.0,3.807,0.88,us,us6000h2fg,2022-03-05T22:22:01.040Z,"114 km SSW of Hihifo, Tonga",earthquake,10.5,6.3,0.054,101.0,reviewed,us,us
+2022-03-05T22:38:01.350Z,33.6866684,-116.7848358,15.1,1.05,ml,29.0,118.0,0.06378,0.12,ci,ci40200384,2022-03-05T22:40:20.884Z,"8km SW of Idyllwild, CA",earthquake,0.39,0.62,0.133,5.0,automatic,ci,ci
