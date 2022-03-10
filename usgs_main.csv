@@ -1720,3 +1720,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-10T14:54:04.600Z,38.7789993,-122.716835,1.89,2.04,md,34.0,72.0,0.01611,0.07,nc,nc73703786,2022-03-10T14:55:40.864Z,"2km WNW of Anderson Springs, CA",earthquake,0.27,0.4,0.12,10.0,automatic,nc,nc
 2022-03-10T14:53:32.770Z,35.5115013,-118.3893356,8.28,1.29,ml,14.0,100.0,0.1858,0.1,ci,ci40204256,2022-03-10T14:55:37.614Z,"13km SE of Bodfish, CA",earthquake,0.4,1.5,0.123,5.0,automatic,ci,ci
 2022-03-10T14:37:08.820Z,18.0171666666667,-66.9626666666667,4.25,2.41,md,3.0,152.0,,0.05,pr,pr71339728,2022-03-10T14:50:25.980Z,"3 km SW of Liborio Negron Torres, Puerto Rico",earthquake,5.09,7.59,0.195727103697157,3.0,reviewed,pr,pr
+2022-03-10T15:11:15.919Z,36.07871246,-98.43801117,9.726575851,2.35,ml,39.0,62.8391571,0.1052121893,0.3492736343,ok,ok2022evkh,2022-03-10T15:12:34.132Z,"11 km WSW of Okeene, Oklahoma",earthquake,1.90551109,2.394875059,,16.0,automatic,ok,ok
+2022-03-10T15:03:26.502Z,64.2821,-148.001,8.5,1.5,ml,,,,0.56,ak,ak02236d15cb,2022-03-10T15:06:46.926Z,"57 km E of Clear, Alaska, Alaska",earthquake,,0.3,,,automatic,ak,ak
+2022-03-10T14:54:18.660Z,38.7821655,-122.7186661,1.67,1.2,md,8.0,171.0,0.01415,0.01,nc,nc73703791,2022-03-10T15:11:17.089Z,"2km WNW of Anderson Springs, CA",earthquake,0.55,0.92,,1.0,automatic,nc,nc
