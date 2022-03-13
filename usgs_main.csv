@@ -2406,3 +2406,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T05:13:21.020Z,38.8139992,-122.8249969,1.82,0.81,md,20.0,55.0,0.006076,0.03,nc,nc73704911,2022-03-13T05:30:14.680Z,"7km NW of The Geysers, CA",earthquake,0.23,0.42,0.36,3.0,automatic,nc,nc
 2022-03-13T05:07:06.869Z,58.2034,-156.1189,151.6,2.8,ml,,97.0,1.009,0.22,us,us6000h44q,2022-03-13T05:29:25.040Z,"62 km SSE of King Salmon, Alaska",earthquake,4.1,17.1,0.06,37.0,reviewed,us,us
 2022-03-13T04:28:00.320Z,17.9348333333333,-66.9196666666667,11.95,1.87,md,13.0,217.0,,0.11,pr,pr71339968,2022-03-13T05:14:04.900Z,Puerto Rico region,earthquake,0.54,0.44,0.193723069121307,11.0,reviewed,pr,pr
+2022-03-13T05:22:17.195Z,-17.955,-178.3599,589.58,4.3,mb,,114.0,3.423,0.72,us,us6000h44r,2022-03-13T05:43:14.040Z,"246 km E of Levuka, Fiji",earthquake,13.4,8.5,0.052,106.0,reviewed,us,us
