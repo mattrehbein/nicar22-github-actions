@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-14T10:39:18.500Z,38.8086662,-122.8238297,2.34,0.35,md,12,63,0.004183,0.02,nc,nc73705366,2022-03-14T10:40:52.649Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.62,,1,automatic,nc,nc
+2022-03-14T10:42:48.910Z,38.8071671,-122.8168335,3.2,0.35,md,10,76,0.009793,0.01,nc,nc73705371,2022-03-14T10:44:22.765Z,"6km WNW of The Geysers, CA",earthquake,0.38,0.84,,1,automatic,nc,nc
+2022-03-14T10:39:18.500Z,38.8086662,-122.8238297,2.34,0.35,md,12,63,0.004183,0.02,nc,nc73705366,2022-03-14T10:50:10.363Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.62,,1,automatic,nc,nc
 2022-03-14T10:36:37.490Z,35.6531667,-117.5618333,7.62,0.77,ml,13,134,0.105,0.14,ci,ci40207344,2022-03-14T10:40:08.568Z,"11km ENE of Ridgecrest, CA",earthquake,0.39,1.41,0.132,9,automatic,ci,ci
 2022-03-14T10:26:26.270Z,19.1696662902832,-155.479995727539,30.0599994659424,2.3,ml,42,94,,0.180000007,hv,hv72949572,2022-03-14T10:31:56.570Z,"3 km S of Pāhala, Hawaii",earthquake,0.54,0.99000001,0.21,6,automatic,hv,hv
 2022-03-14T10:26:24.808Z,64.2514,-147.8877,10.8,1.7,ml,,,,0.42,ak,ak0223cwcamo,2022-03-14T10:30:20.398Z,"56 km WSW of Salcha, Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -176,5 +177,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-13T11:32:30.883Z,-4.1133,103.0207,122.85,4.5,mb,,118,0.254,0.71,us,us6000h464,2022-03-13T12:00:23.040Z,"26 km WSW of Pagar Alam, Indonesia",earthquake,9.4,6.1,0.125,19,reviewed,us,us
 2022-03-13T11:28:32.410Z,38.8156662,-122.7955017,2.01,0.96,md,25,48,0.007689,0.04,nc,nc73705011,2022-03-13T12:45:13.323Z,"5km NW of The Geysers, CA",earthquake,0.21,0.37,0.2,3,automatic,nc,nc
 2022-03-13T11:16:29.974Z,52.4403,172.704,10.76,4.8,mb,,120,0.901,0.69,us,us6000h45z,2022-03-13T11:40:55.251Z,"55 km SW of Attu Station, Alaska",earthquake,6.9,4.9,0.042,172,reviewed,us,us
-2022-03-13T10:51:05.968Z,-1.827,-78.3495,4.26,4.6,mb,,65,0.464,0.72,us,us6000h45x,2022-03-13T12:38:30.625Z,"37 km ESE of Riobamba, Ecuador",earthquake,4.9,4.9,0.045,147,reviewed,us,us
-2022-03-13T10:48:32.500Z,33.4448333,-116.5783333,11.7,0.76,ml,27,42,0.05447,0.16,ci,ci40206632,2022-03-13T10:52:03.398Z,"15km SE of Anza, CA",earthquake,0.24,0.48,0.242,22,automatic,ci,ci
