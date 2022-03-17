@@ -3484,3 +3484,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-17T06:34:19.292Z,64.5603,-149.3173,17.0,1.1,ml,,,,0.16,ak,ak0223hsmazt,2022-03-17T06:44:01.908Z,"10 km WSW of Four Mile Road, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-03-17T06:30:12.274Z,69.6006,-144.3689,10.2,2.7,ml,,,,0.84,ak,ak0223hslgtm,2022-03-17T06:43:27.494Z,"65 km SSW of Kaktovik, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-17T05:31:23.370Z,36.8293333,-121.4158333,8.55,1.11,md,27.0,92.0,0.02394,0.12,nc,nc73706656,2022-03-17T06:45:16.643Z,"2km SW of Hollister, CA",earthquake,0.36,0.68,0.18,22.0,reviewed,nc,nc
+2022-03-17T06:50:43.174Z,61.1284,-145.6683,21.0,1.9,ml,,,,0.77,ak,ak0223hspsad,2022-03-17T06:55:03.100Z,"36 km E of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
