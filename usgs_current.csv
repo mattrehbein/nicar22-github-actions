@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-21T22:35:18.359Z,59.2472,-152.199,65,1.7,ml,,,,0.31,ak,ak0223ooauaj,2022-03-21T22:37:14.417Z,"19 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
+2022-03-21T22:35:18.359Z,59.2472,-152.199,65,1.7,ml,,,,0.31,ak,ak0223ooauaj,2022-03-21T22:49:44.657Z,"19 km SW of Nanwalek, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-03-21T22:25:51.690Z,19.1873340606689,-155.484664916992,32.9000015258789,2.17000008,md,42,73,,0.129999995,hv,hv72958377,2022-03-21T22:29:00.870Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.53,0.769999981,0.479999989,25,automatic,hv,hv
 2022-03-21T22:19:06.554Z,37.106,-116.7468,2.3,1.3,ml,8,246.81,0.179,0.1826,nn,nn00835743,2022-03-21T22:22:29.429Z,"21 km N of Beatty, Nevada",earthquake,,1.3,0.83,6,automatic,nn,nn
 2022-03-21T22:14:58.797Z,62.9611,-150.8457,34.1,1.3,ml,,,,1.48,ak,ak0223oo6fdf,2022-03-21T22:37:15.138Z,"51 km N of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
@@ -123,7 +123,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-21T11:56:27.030Z,37.6426667,-122.0548333,2.6,2.04,md,68,32,0.01519,0.16,nc,nc73708386,2022-03-21T22:39:58.723Z,"2km E of Hayward, CA",earthquake,0.16,0.37,0.182,49,reviewed,nc,nc
 2022-03-21T11:51:55.170Z,33.7013333,-116.718,17.37,0.69,ml,24,64,0.01032,0.11,ci,ci39973351,2022-03-21T16:55:19.555Z,"4km S of Idyllwild, CA",earthquake,0.24,0.34,0.11,8,reviewed,ci,ci
 2022-03-21T11:38:37.410Z,46.19,-122.17366666666666,4.39,0.6900000000000001,ml,13,111,0.01544,0.14,uw,uw61814967,2022-03-21T17:55:35.290Z,"37 km NE of Amboy, Washington",earthquake,0.55,0.47,0.19139621891742997,7,reviewed,uw,uw
-2022-03-21T11:32:07.352Z,15.1661,-91.6127,171.83,4.8,mb,,153,1.218,1.02,us,us6000h6dj,2022-03-21T11:46:24.040Z,"5 km SSE of Sipacapa, Guatemala",earthquake,12.5,8.3,0.032,307,reviewed,us,us
+2022-03-21T11:32:07.352Z,15.1661,-91.6127,171.83,4.8,mb,,153,1.218,1.02,us,us6000h6dj,2022-03-21T22:48:09.243Z,"5 km SSE of Sipacapa, Guatemala",earthquake,12.5,8.3,0.032,307,reviewed,us,us
 2022-03-21T11:25:33.880Z,38.8241667,-122.7648333,2.11,1.28,md,44,45,0.007441,0.04,nc,nc73708381,2022-03-21T22:37:14.325Z,"4km W of Cobb, CA",earthquake,0.16,0.23,0.183,11,reviewed,nc,nc
 2022-03-21T11:25:02.100Z,38.7859993,-122.7805023,2.46,0.83,md,12,110,0.009219,0.02,nc,nc73708376,2022-03-21T11:41:24.431Z,"2km WNW of The Geysers, CA",earthquake,0.36,0.66,0.45,2,automatic,nc,nc
 2022-03-21T11:22:58.180Z,35.6633333,-117.487,6.09,-0.05,ml,7,162,0.07928,0.06,ci,ci39973343,2022-03-21T16:50:04.736Z,"14km SSW of Searles Valley, CA",earthquake,0.4,0.69,0.033,3,reviewed,ci,ci
@@ -239,5 +239,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-20T23:14:34.700Z,37.5856667,-118.7375,7.49,0.87,md,15,132,0.0729,0.12,nc,nc73708206,2022-03-21T03:36:23.884Z,"6km WNW of Toms Place, CA",earthquake,0.83,1.28,0.114,12,reviewed,nc,nc
 2022-03-20T23:11:10.530Z,60.6866,-144.2754,18.8,1.8,ml,,,,1.15,ak,ak0223n17rkm,2022-03-20T23:30:48.296Z,"82 km E of Cordova, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-03-20T23:03:46.890Z,17.9543333333333,-66.9045,8.98,2.16,md,4,209,,0.13,pr,pr71340983,2022-03-20T23:19:53.870Z,"1 km S of Guánica, Puerto Rico",earthquake,2.87,0.76,0.0639955598690012,2,reviewed,pr,pr
-2022-03-20T22:50:04.941Z,38.5264,-119.5007,7.2,1.3,ml,6,110.84,0.054,0.0523,nn,nn00835707,2022-03-21T20:53:37.161Z,"2 km WNW of Walker, California",earthquake,,2.2,0.19,3,reviewed,nn,nn
-2022-03-20T22:48:17.962Z,61.0988,-150.5911,14.1,2.5,ml,,,,0.75,ak,ak0223n0ua6b,2022-03-21T22:03:27.040Z,"20 km NNE of Point Possession, Alaska",earthquake,,0.4,,,automatic,ak,ak
