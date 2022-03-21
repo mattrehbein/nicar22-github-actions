@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-03-21T14:38:05.020Z,35.6679993,-117.5653305,6.25,1.19,ml,21,119,0.08086,0.12,ci,ci39973415,2022-03-21T14:40:17.612Z,"11km ENE of Ridgecrest, CA",earthquake,0.34,1.15,0.203,6,automatic,ci,ci
+2022-03-21T14:38:05.010Z,35.67,-117.5601667,6.99,1.24,ml,14,139,0.1154,0.18,ci,ci39973415,2022-03-21T14:41:42.996Z,"12km ENE of Ridgecrest, CA",earthquake,0.4,1.1,0.122,14,automatic,ci,ci
 2022-03-21T14:24:30.625Z,61.5504,-146.3078,19.4,2.3,ml,,,,0.85,ak,ak0223ojh1je,2022-03-21T14:31:06.724Z,"46 km N of Valdez, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-03-21T14:00:38.940Z,19.1886672973633,-155.484832763672,33.1300010681152,2.13000011,md,42,143,,0.109999999,hv,hv72957967,2022-03-21T14:03:47.860Z,"1 km SSW of Pāhala, Hawaii",earthquake,0.55,0.879999995,1.84000003,18,automatic,hv,hv
 2022-03-21T13:59:25.478Z,64.8512,-149.0197,18.4,1.1,ml,,,,0.77,ak,ak0223oj33l1,2022-03-21T14:02:09.027Z,"28 km N of Four Mile Road, Alaska",earthquake,,0.2,,,automatic,ak,ak
