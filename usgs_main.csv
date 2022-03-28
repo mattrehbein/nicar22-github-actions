@@ -6707,3 +6707,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-28T10:08:35.823Z,41.9673,-119.7403,5.8,2.3,ml,6.0,146.43,0.424,0.2146,nn,nn00836213,2022-03-28T23:17:53.735Z,"36 km ENE of Fort Bidwell, California",earthquake,,4.4,0.57,4.0,reviewed,nn,nn
 2022-03-28T09:24:59.061Z,41.9758,-119.5236,6.3,0.6,ml,3.0,309.89,0.585,0.0087,nn,nn00836212,2022-03-28T23:11:40.430Z,"53 km ENE of Fort Bidwell, California",earthquake,,16.0,1.12,2.0,reviewed,nn,nn
 2022-03-28T00:22:42.185Z,41.9465,-119.6004,0.5,2.1,ml,5.0,233.61,0.525,0.0843,nn,nn00836211,2022-03-28T23:02:21.851Z,"46 km ENE of Fort Bidwell, California",earthquake,,5.3,0.61,3.0,reviewed,nn,nn
+2022-03-28T21:56:28.546Z,57.1226,-138.2855,10.0,2.9,ml,,212.0,1.39,0.67,us,us7000gxy4,2022-03-28T23:21:22.040Z,"154 km SW of Pelican, Alaska",earthquake,7.6,2.0,0.057,40.0,reviewed,us,us
