@@ -6965,3 +6965,9 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T06:51:01.300Z,44.7433333,-110.909,2.4,-0.38,md,5.0,118.0,0.06133,0.13,uu,uu60030239,2022-03-29T17:15:16.590Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.41,8.26,0.322,3.0,reviewed,uu,uu
 2022-03-28T22:27:45.740Z,35.6473333,-117.4323333,5.4,0.01,ml,4.0,174.0,0.0654,0.04,ci,ci39980863,2022-03-29T17:11:52.672Z,"14km S of Searles Valley, CA",earthquake,2.3,3.06,0.025,1.0,reviewed,ci,ci
 2022-03-29T17:31:28.990Z,35.8573333,-117.6801667,3.77,0.88,ml,8.0,89.0,0.07895,0.2,ci,ci39981231,2022-03-29T17:35:09.971Z,"22km ESE of Little Lake, CA",earthquake,0.54,1.49,0.124,7.0,automatic,ci,ci
+2022-03-29T17:49:50.767Z,61.8317,-150.2134,30.6,2.4,ml,,,,0.52,ak,ak02241tpiqs,2022-03-29T17:51:49.500Z,"13 km NW of Willow, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-03-29T17:48:04.110Z,38.8125,-122.7921677,2.88,0.89,md,28.0,41.0,0.005146,0.02,nc,nc73711941,2022-03-29T17:49:40.309Z,"5km NW of The Geysers, CA",earthquake,0.2,0.41,0.04,5.0,automatic,nc,nc
+2022-03-29T17:47:14.890Z,35.8798333,-117.694,2.76,0.8,ml,12.0,76.0,0.0766,0.09,ci,ci39981255,2022-03-29T17:50:51.149Z,"20km ESE of Little Lake, CA",earthquake,0.21,0.28,0.105,7.0,automatic,ci,ci
+2022-03-29T17:43:56.780Z,33.7243333,-116.8248333,15.85,0.93,ml,35.0,50.0,0.0905,0.23,ci,ci39981247,2022-03-29T17:47:31.601Z,"7km ESE of Valle Vista, CA",earthquake,0.44,0.7,0.184,23.0,automatic,ci,ci
+2022-03-29T14:26:43.980Z,19.5151666666667,-155.678666666667,4.57,1.6,md,12.0,166.0,,0.1,hv,hv72966197,2022-03-29T17:47:49.110Z,"20 km ENE of Honaunau-Napoopoo, Hawaii",earthquake,0.55,0.86,0.0495207216984774,5.0,reviewed,hv,hv
+2022-03-28T22:29:18.020Z,48.090833333333336,-121.94166666666666,-0.22,1.55,ml,20.0,66.0,0.01407,0.23,uw,uw61817182,2022-03-29T17:47:56.508Z,"2 km ENE of Granite Falls, Washington",explosion,0.4,31.61,0.0885707650818881,6.0,reviewed,uw,uw
