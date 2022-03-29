@@ -6964,3 +6964,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-03-29T09:06:04.360Z,44.7476667,-110.9148333,2.15,-0.31,md,5.0,127.0,0.06126,0.13,uu,uu60487707,2022-03-29T17:29:20.830Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.4,9.76,0.254,4.0,reviewed,uu,uu
 2022-03-29T06:51:01.300Z,44.7433333,-110.909,2.4,-0.38,md,5.0,118.0,0.06133,0.13,uu,uu60030239,2022-03-29T17:15:16.590Z,"17 km ENE of West Yellowstone, Montana",earthquake,0.41,8.26,0.322,3.0,reviewed,uu,uu
 2022-03-28T22:27:45.740Z,35.6473333,-117.4323333,5.4,0.01,ml,4.0,174.0,0.0654,0.04,ci,ci39980863,2022-03-29T17:11:52.672Z,"14km S of Searles Valley, CA",earthquake,2.3,3.06,0.025,1.0,reviewed,ci,ci
+2022-03-29T17:31:28.990Z,35.8573333,-117.6801667,3.77,0.88,ml,8.0,89.0,0.07895,0.2,ci,ci39981231,2022-03-29T17:35:09.971Z,"22km ESE of Little Lake, CA",earthquake,0.54,1.49,0.124,7.0,automatic,ci,ci
