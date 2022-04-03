@@ -1,10 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-04-03T17:34:06.789Z,61.0501,-152.3879,108.2,1,ml,,,,0.37,ak,ak0224a3ay1o,2022-04-03T17:36:59.894Z,"67 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
+2022-04-03T17:45:55.782Z,35.42264175,-97.87393951,5.629218102,2.22,ml,11,107.5867872,0.04702482745,1.273535942,ok,ok2022gnll,2022-04-03T17:47:28.066Z,"7 km ENE of Union City, Oklahoma",earthquake,5.406243038,6.435921564,,8,automatic,ok,ok
+2022-04-03T17:34:06.719Z,61.0573,-152.4105,108.7,1,ml,,,,0.38,ak,ak0224a3ay1o,2022-04-03T17:46:14.280Z,"68 km W of Tyonek, Alaska",earthquake,,0.5,,,automatic,ak,ak
 2022-04-03T17:27:49.127Z,38.1469,-117.9906,9.6,1.2,ml,11,136.51,0.026,0.0944,nn,nn00836634,2022-04-03T17:31:36.720Z,"28 km SSE of Mina, Nevada",earthquake,,0.5,0.33,6,automatic,nn,nn
 2022-04-03T17:16:53.620Z,38.7980003,-122.8116684,2.68,0.49,md,12,80,0.01177,0.01,nc,nc73713756,2022-04-03T17:35:23.011Z,"5km WNW of The Geysers, CA",earthquake,0.33,0.77,0.35,2,automatic,nc,nc
 2022-04-03T17:11:46.349Z,60.1086,-151.1797,51.9,1.8,ml,,,,0.66,ak,ak0224a363nd,2022-04-03T17:19:21.655Z,"18 km SE of Clam Gulch, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-03T17:08:36.810Z,33.769165,-117.4876633,14.81,1.22,ml,9,111,0.0127,0.23,ci,ci39985311,2022-04-03T17:12:25.428Z,"12km SSE of Home Gardens, CA",earthquake,1.05,2.04,0.322,10,automatic,ci,ci
-2022-04-03T17:00:18.950Z,38.6049995,-121.9348297,1.99,1.63,md,10,98,0.08014,0.34,nc,nc73713746,2022-04-03T17:23:22.932Z,"9km NNE of Winters, CA",earthquake,1.15,8.17,0.21,7,automatic,nc,nc
+2022-04-03T17:00:18.950Z,38.6049995,-121.9348297,1.99,1.63,md,10,98,0.08014,0.34,nc,nc73713746,2022-04-03T17:47:12.086Z,"9km NNE of Winters, CA",earthquake,1.15,8.17,0.21,7,automatic,nc,nc
 2022-04-03T16:58:16.099Z,38.1895,-117.797,11.1,2.8,ml,27,92.98,0.133,0.297,nn,nn00836630,2022-04-03T17:27:35.040Z,"35 km SE of Mina, Nevada",earthquake,,0.3,0.33,14,automatic,nn,nn
 2022-04-03T16:51:34.470Z,38.838501,-122.8243332,1.86,0.36,md,10,88,0.008711,0.01,nc,nc73713736,2022-04-03T17:11:23.854Z,"9km WNW of Cobb, CA",earthquake,0.49,0.65,,1,automatic,nc,nc
 2022-04-03T16:45:33.050Z,33.4828333,-116.5668333,7.58,2.43,ml,85,24,0.03184,0.2,ci,ci39985295,2022-04-03T16:56:24.030Z,"13km SE of Anza, CA",earthquake,0.16,0.39,0.16,25,automatic,ci,ci
@@ -197,7 +198,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-02T19:54:20.850Z,38.789,-122.7785,1.34,-0.16,md,13,82,0.008461,0.02,nc,nc73713496,2022-04-02T23:18:28.866Z,"2km NW of The Geysers, CA",earthquake,0.27,0.45,0.108,3,reviewed,nc,nc
 2022-04-02T19:47:56.530Z,35.8843333,-117.709,3.6,0.09,ml,8,110,0.0793,0.09,ci,ci39984775,2022-04-03T15:48:01.506Z,"19km ESE of Little Lake, CA",earthquake,0.24,0.75,0.019,3,reviewed,ci,ci
 2022-04-02T19:45:15.098Z,51.61,-173.4552,33.39,2.5,ml,,215,0.75,0.41,us,us7000gz99,2022-04-02T20:54:22.040Z,"Andreanof Islands, Aleutian Islands, Alaska",earthquake,5.1,17.8,0.115,10,reviewed,us,us
-2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"western Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
+2022-04-02T19:40:14.029Z,32.41607666,-101.5940596,7.067423503,3.1,ml,8,144,0.1946282478,0.1,tx,tx2022glts,2022-04-02T20:08:53.850Z,"16 km SE of Ackerly, Texas",earthquake,1.380449073,2.944138455,0.2,6,reviewed,tx,tx
 2022-04-02T19:28:31.200Z,33.374,-116.8405,9.59,0.67,ml,25,61,0.1537,0.22,ci,ci39984767,2022-04-02T19:32:04.628Z,"3km NE of Palomar Observatory, CA",earthquake,0.34,1.59,0.182,18,automatic,ci,ci
 2022-04-02T19:21:23.487Z,38.1901,-117.7585,3.5,1.6,ml,11,215.93,0.12,0.1088,nn,nn00836589,2022-04-02T19:25:11.038Z,"37 km SE of Mina, Nevada",earthquake,,1.3,0.21,7,automatic,nn,nn
 2022-04-02T19:11:06.430Z,36.0666667,-117.8551667,3.46,0.9,ml,10,139,0.05081,0.1,ci,ci39984743,2022-04-02T19:14:40.050Z,"9km ENE of Coso Junction, CA",earthquake,0.3,0.53,0.24,8,automatic,ci,ci
