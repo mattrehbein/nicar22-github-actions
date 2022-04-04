@@ -8544,3 +8544,6 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-04T08:12:30.810Z,33.4368333,-116.4205,8.85,0.7,ml,26.0,79.0,0.08645,0.19,ci,ci39985687,2022-04-04T08:16:11.807Z,"21km NNW of Borrego Springs, CA",earthquake,0.33,0.93,0.106,20.0,automatic,ci,ci
 2022-04-04T08:07:05.532Z,35.9837,-114.8605,11.6,1.7,ml,16.0,186.74,0.573,0.3221,nn,nn00836650,2022-04-04T08:12:09.703Z,"2 km WNW of Boulder City, Nevada",earthquake,,0.9,0.19,9.0,automatic,nn,nn
 2022-04-04T06:38:43.620Z,17.9453333333333,-67.0961666666667,11.63,2.32,md,9.0,268.0,,0.14,pr,pr71343298,2022-04-04T08:17:51.290Z,"6 km WSW of La Parguera, Puerto Rico",earthquake,0.76,0.38,0.0078584303099194,5.0,reviewed,pr,pr
+2022-04-04T08:41:16.660Z,33.544,-115.8946667,3.27,2.03,ml,47.0,55.0,0.04427,0.18,ci,ci39985711,2022-04-04T08:52:11.130Z,"4km ENE of North Shore, CA",earthquake,0.24,0.42,0.104,26.0,automatic,ci,ci
+2022-04-04T08:37:06.258Z,38.5117,-119.5376,2.8,0.7,ml,9.0,180.47,0.075,0.1558,nn,nn00836653,2022-04-04T08:41:37.765Z,"5 km W of Walker, California",earthquake,,0.8,0.42,5.0,automatic,nn,nn
+2022-04-04T07:25:51.230Z,17.951,-67.1103333333333,12.44,2.04,md,7.0,277.0,,0.1,pr,pr71343303,2022-04-04T08:38:54.700Z,Puerto Rico region,earthquake,0.74,0.33,0.0305861828516032,5.0,reviewed,pr,pr
