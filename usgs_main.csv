@@ -9064,3 +9064,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-06T11:17:45.450Z,38.8433342,-122.8246689,1.89,0.78,md,17.0,74.0,0.009686,0.04,nc,nc73715011,2022-04-06T11:19:20.830Z,"9km WNW of Cobb, CA",earthquake,0.28,0.53,0.41,2.0,automatic,nc,nc
 2022-04-06T11:01:42.579Z,59.9129,-152.1638,80.3,1.4,ml,,,,0.18,ak,ak0224ey5e29,2022-04-06T11:04:08.156Z,"24 km NW of Anchor Point, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-06T11:27:26.480Z,33.9938316,-116.975502,17.99,1.24,ml,38.0,86.0,0.06235,0.13,ci,ci39987231,2022-04-06T11:29:32.176Z,"7km N of Beaumont, CA",earthquake,0.23,0.67,0.114,7.0,automatic,ci,ci
+2022-04-06T11:26:36.571Z,38.1072,-118.0279,8.8,1.0,ml,10.0,148.36,0.063,0.3569,nn,nn00836756,2022-04-06T11:30:38.539Z,"32 km SSE of Mina, Nevada",earthquake,,0.9,0.39,4.0,automatic,nn,nn
