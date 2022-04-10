@@ -1,4 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-10T20:29:10.498Z,58.2988,-154.9367,2.9,0.9,ml,,,,0.61,ak,ak0224lptm1z,2022-04-10T20:32:54.869Z,"86 km NNW of Karluk, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-04-10T20:22:42.010Z,64.7088,-147.9379,6,1,ml,,,,0.72,ak,ak0224lps6h5,2022-04-10T20:31:56.306Z,"13 km SSW of South Van Horn, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-10T20:09:36.500Z,32.7536667,-115.4126667,7.65,2.07,ml,14,157,0.05899,0.22,ci,ci39990063,2022-04-10T20:13:06.800Z,"7km SSW of Holtville, CA",earthquake,0.63,0.86,0.213,27,automatic,ci,ci
 2022-04-10T20:03:34.130Z,38.7659988,-122.9430008,3.08,0.65,md,8,164,0.05628,0.01,nc,nc73716706,2022-04-10T20:21:15.282Z,"8km SE of Cloverdale, CA",earthquake,0.83,3.59,0.19,3,automatic,nc,nc
 2022-04-10T20:03:33.830Z,33.398,-117.2285,0.56,1.31,ml,13,56,0.2033,0.31,ci,ci39990055,2022-04-10T20:07:10.431Z,"3km NE of Fallbrook, CA",earthquake,0.77,31.61,0.334,9,automatic,ci,ci
@@ -181,4 +183,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-09T21:05:17.940Z,38.8183333,-122.8023333,3.47,0.4,md,34,34,0.007881,0.03,nc,nc73716411,2022-04-10T01:41:22.522Z,"6km NW of The Geysers, CA",earthquake,0.18,0.32,0.363,5,reviewed,nc,nc
 2022-04-09T20:52:37.344Z,-16.3181,166.8507,10,6.3,mww,,33,0.93,0.88,us,us7000h0yj,2022-04-10T00:11:48.876Z,"64 km WSW of Norsup, Vanuatu",earthquake,5.6,1.7,0.038,68,reviewed,us,us
 2022-04-09T20:40:46.586Z,63.1676,-149.6992,89.3,1.8,ml,,,,0.51,ak,ak0224k2cp8b,2022-04-09T20:43:23.234Z,"45 km SW of Cantwell, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-04-09T20:37:07.490Z,33.3333333,-116.2258333,8.59,0.88,ml,23,61,0.07586,0.26,ci,ci39989591,2022-04-09T20:40:38.586Z,"16km ENE of Borrego Springs, CA",earthquake,0.56,1.12,0.08,18,automatic,ci,ci
