@@ -11128,3 +11128,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-13T22:16:34.158Z,64.9154,-148.6596,16.2,1.0,ml,,,,0.33,ak,ak0224qpjs9j,2022-04-13T22:30:21.468Z,"31 km WNW of Ester, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-04-13T22:13:54.663Z,61.5816,-149.8191,54.0,1.5,ml,,,,0.3,ak,ak0224qpj6p6,2022-04-13T22:17:01.303Z,"5 km S of Houston, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-04-13T19:56:19.570Z,42.35783333333333,-122.98933333333332,6.74,1.56,ml,13.0,86.0,0.1412,0.12,uw,uw61822462,2022-04-13T22:30:28.430Z,"5 km NNW of Jacksonville, Oregon",earthquake,0.31,0.74,0.0818704759633122,6.0,reviewed,uw,uw
+2022-04-13T22:34:19.296Z,59.7436,-152.2803,66.2,1.1,ml,,,,0.77,ak,ak0224qpnm1h,2022-04-13T22:37:23.908Z,"25 km W of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
