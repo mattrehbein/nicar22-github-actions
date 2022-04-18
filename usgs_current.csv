@@ -1,6 +1,8 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-04-18T05:28:46.686Z,59.6564,-153.0789,111.6,2,ml,,,,0.5,ak,ak0224yp6r0s,2022-04-18T05:33:32.471Z,"59 km ESE of Pedro Bay, Alaska",earthquake,,0.7,,,automatic,ak,ak
+2022-04-18T05:24:42.140Z,38.715168,-122.8665009,2.97,1.39,md,15,191,0.05576,0.05,nc,nc73719455,2022-04-18T05:34:26.011Z,"12km N of Healdsburg, CA",earthquake,0.45,1.6,0.04,6,automatic,nc,nc
 2022-04-18T05:14:29.498Z,38.2038,-117.7519,6,1.4,ml,16,116.06,0.132,0.2282,nn,nn00837352,2022-04-18T05:18:30.781Z,"37 km ESE of Mina, Nevada",earthquake,,0.6,0.74,10,automatic,nn,nn
-2022-04-18T05:10:57.074Z,59.7828,-152.2297,70.5,1.4,ml,,,,0.35,ak,ak0224yp2wx7,2022-04-18T05:22:29.600Z,"22 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
+2022-04-18T05:10:57.074Z,59.7828,-152.2297,70.5,1.4,ml,,,,0.35,ak,ak0224yp2wx7,2022-04-18T05:26:26.574Z,"22 km W of Anchor Point, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-04-18T05:06:34.530Z,19.2508335113525,-155.397659301758,31.3899993896484,1.87,md,41,131,,0.109999999,hv,hv72988347,2022-04-18T05:09:44.330Z,"10 km ENE of Pāhala, Hawaii",earthquake,0.56,1,0.540000021,21,automatic,hv,hv
 2022-04-18T05:00:57.930Z,38.8323326,-122.8156662,1.8,1.6,md,27,53,0.009936,0.02,nc,nc73719445,2022-04-18T05:10:26.861Z,"8km NW of The Geysers, CA",earthquake,0.18,0.33,0.11,6,automatic,nc,nc
 2022-04-18T04:57:36.180Z,38.8134995,-122.819664,2.53,0.98,md,21,54,0.008754,0.02,nc,nc73719440,2022-04-18T05:01:36.996Z,"7km NW of The Geysers, CA",earthquake,0.24,0.48,0.17,3,automatic,nc,nc
@@ -38,7 +40,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-18T02:19:10.420Z,38.8058319,-122.8205032,2.34,1.14,md,25,57,0.007425,0.02,nc,nc73719265,2022-04-18T03:20:53.189Z,"6km WNW of The Geysers, CA",earthquake,0.22,0.38,0.06,5,automatic,nc,nc
 2022-04-18T02:19:00.390Z,38.8063316,-122.8216629,1.76,0.35,md,10,118,0.006395,0.03,nc,nc73719260,2022-04-18T02:22:48.015Z,"6km WNW of The Geysers, CA",earthquake,0.35,0.87,,1,automatic,nc,nc
 2022-04-18T02:17:52.800Z,38.8033333,-122.8203354,2.45,2.76,md,51,35,0.008847,0.09,nc,nc73719250,2022-04-18T04:48:04.886Z,"6km WNW of The Geysers, CA",earthquake,0.19,0.27,0.14,43,automatic,nc,nc
-2022-04-18T02:15:18.090Z,38.8139992,-122.8180008,2.58,1.42,md,30,52,0.01012,0.02,nc,nc73719245,2022-04-18T03:16:26.165Z,"7km NW of The Geysers, CA",earthquake,0.19,0.4,0.06,6,automatic,nc,nc
+2022-04-18T02:15:18.090Z,38.8139992,-122.8180008,2.58,1.42,md,30,52,0.01012,0.02,nc,nc73719245,2022-04-18T05:27:34.970Z,"7km NW of The Geysers, CA",earthquake,0.19,0.4,0.06,6,automatic,nc,nc
 2022-04-18T02:15:09.730Z,33.9946667,-117.188,0.23,0.95,ml,14,172,0.1557,0.26,ci,ci40239400,2022-04-18T02:18:56.822Z,"7km S of Redlands, CA",earthquake,1.03,31.61,0.353,16,automatic,ci,ci
 2022-04-18T02:14:03.810Z,38.8098335,-122.8218307,2.21,0.35,md,8,133,0.005821,0.01,nc,nc73719230,2022-04-18T02:19:35.995Z,"7km WNW of The Geysers, CA",earthquake,0.5,1.2,,1,automatic,nc,nc
 2022-04-18T02:10:47.480Z,38.8115005,-122.8235016,1.54,0.85,md,9,62,0.005155,0.01,nc,nc73719210,2022-04-18T02:47:57.010Z,"7km WNW of The Geysers, CA",earthquake,0.34,0.95,,1,automatic,nc,nc
