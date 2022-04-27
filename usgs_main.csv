@@ -14929,3 +14929,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-27T11:09:00.325Z,60.3806,-152.3103,94.8,1.2,ml,,,,0.71,ak,ak0225dohaxk,2022-04-27T11:22:26.045Z,"51 km NW of Ninilchik, Alaska",earthquake,,1.2,,,automatic,ak,ak
 2022-04-27T11:07:52.138Z,61.2797,-146.3203,21.9,1.0,ml,,,,1.15,ak,ak0225dogzgt,2022-04-27T11:10:53.826Z,"16 km N of Valdez, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-04-27T11:01:32.880Z,15.9924,-96.4734,22.47,4.9,mb,,188.0,2.541,0.54,us,us6000hgnw,2022-04-27T11:16:42.040Z,"1 km NW of Los Naranjos Esquipulas, Mexico",earthquake,10.0,7.5,0.034,273.0,reviewed,us,us
+2022-04-27T11:33:17.662Z,60.0674,-141.7802,6.9,1.4,ml,,,,0.82,ak,ak0225domhfr,2022-04-27T11:36:33.246Z,"128 km WNW of Yakutat, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-04-27T11:23:43.819Z,60.1136,-141.7389,0.0,1.1,ml,,,,0.57,ak,ak0225doke93,2022-04-27T11:29:00.154Z,"129 km WNW of Yakutat, Alaska",earthquake,,0.4,,,automatic,ak,ak
