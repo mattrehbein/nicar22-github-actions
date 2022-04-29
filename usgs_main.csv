@@ -15512,3 +15512,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-04-29T13:29:49.910Z,33.694,-116.7,17.21,0.51,ml,16.0,138.0,0.0208,0.15,ci,ci40248328,2022-04-29T13:33:27.579Z,"5km SSE of Idyllwild, CA",earthquake,0.5,0.44,0.156,9.0,automatic,ci,ci
 2022-04-29T13:14:06.470Z,35.5161667,-118.3891667,7.11,0.91,ml,12.0,100.0,0.1811,0.16,ci,ci40248304,2022-04-29T13:17:49.839Z,"12km SE of Bodfish, CA",earthquake,0.32,3.21,0.134,7.0,automatic,ci,ci
 2022-04-29T10:36:18.303Z,17.8148,145.8684,250.92,4.3,mb,,79.0,16.181,0.42,us,us7000h5tq,2022-04-29T13:21:57.040Z,"288 km N of Saipan, Northern Mariana Islands",earthquake,12.0,7.9,0.066,64.0,reviewed,us,us
+2022-04-28T22:52:06.670Z,36.3,-89.5353333,9.78,1.11,md,13.0,62.0,0.03522,0.08,nm,nm60392211,2022-04-29T14:04:47.000Z,"5 km NW of Ridgely, Tennessee",earthquake,0.7,0.87,0.054,9.0,reviewed,nm,nm
