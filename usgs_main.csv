@@ -18198,3 +18198,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-10T10:33:32.950Z,35.5038333,-118.3905,8.62,1.16,ml,16.0,101.0,0.1726,0.1,ci,ci40255472,2022-05-10T10:37:03.801Z,"13km SE of Bodfish, CA",earthquake,0.29,1.23,0.094,13.0,automatic,ci,ci
 2022-05-10T10:31:24.430Z,38.8218346,-122.8434982,2.08,0.86,md,17.0,67.0,0.006737,0.02,nc,nc73731706,2022-05-10T10:40:11.316Z,"9km WNW of The Geysers, CA",earthquake,0.24,0.48,,3.0,automatic,nc,nc
 2022-05-10T10:24:12.848Z,31.669,-104.4176,5.0,2.7,ml,,103.0,0.07,0.32,us,us7000h8ap,2022-05-10T10:36:43.040Z,"56 km S of Whites City, New Mexico",earthquake,1.2,1.6,0.115,72.0,reviewed,us,us
+2022-05-10T09:49:45.420Z,37.6176667,-118.8535,2.95,-0.16,md,7.0,137.0,0.007622,0.01,nc,nc73731691,2022-05-10T10:56:15.946Z,"11km E of Mammoth Lakes, CA",earthquake,0.95,1.14,0.175,6.0,reviewed,nc,nc
