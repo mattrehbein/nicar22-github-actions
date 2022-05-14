@@ -19290,3 +19290,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-14T07:16:07.580Z,36.7509995,-121.2668304,14.72,1.45,md,8.0,186.0,0.04612,0.02,nc,nc73733521,2022-05-14T07:28:11.263Z,"6km SE of Tres Pinos, CA",earthquake,0.77,0.95,0.3,4.0,automatic,nc,nc
 2022-05-14T07:15:49.150Z,38.8321648,-122.8150024,1.67,1.2,md,25.0,51.0,0.009566,0.02,nc,nc73733516,2022-05-14T07:25:11.245Z,"8km NW of The Geysers, CA",earthquake,0.19,0.34,0.02,5.0,automatic,nc,nc
 2022-05-14T07:44:09.225Z,59.794,-152.6556,79.8,1.6,ml,,,,0.51,ak,ak02265qfzm6,2022-05-14T07:46:48.035Z,"46 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
+2022-05-14T07:50:19.620Z,38.8325005,-122.8046646,1.88,0.36,md,7.0,95.0,0.01003,0.01,nc,nc73733541,2022-05-14T07:51:55.704Z,"7km W of Cobb, CA",earthquake,0.53,0.98,,1.0,automatic,nc,nc
