@@ -20004,3 +20004,5 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-17T08:37:44.204Z,59.6206,-138.8992,11.6,1.5,ml,,,,0.48,ak,ak0226apm1ec,2022-05-17T08:48:08.585Z,"47 km E of Yakutat, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-05-17T08:33:32.400Z,33.4145,-117.0456667,7.47,0.39,ml,8.0,74.0,0.0279,0.1,ci,ci40020927,2022-05-17T08:37:09.885Z,"6km NNE of Pala, CA",earthquake,0.32,0.67,0.108,8.0,automatic,ci,ci
 2022-05-17T07:16:35.670Z,37.5496667,-118.8508333,0.59,0.22,md,9.0,295.0,0.04383,0.03,nc,nc73734901,2022-05-17T08:47:32.074Z,"15km SE of Mammoth Lakes, CA",earthquake,4.56,2.15,0.23,7.0,reviewed,nc,nc
+2022-05-17T08:56:15.890Z,38.793335,-122.80867,3.14,1.01,md,16.0,93.0,0.006646,0.03,nc,nc73734936,2022-05-17T08:57:51.557Z,"5km WNW of The Geysers, CA",earthquake,0.37,0.81,0.6,2.0,automatic,nc,nc
+2022-05-17T08:56:06.040Z,38.7923317,-122.8083344,2.83,1.6,md,32.0,79.0,0.005738,0.03,nc,nc73734931,2022-05-17T08:57:41.789Z,"5km WNW of The Geysers, CA",earthquake,0.22,0.39,0.17,8.0,automatic,nc,nc
