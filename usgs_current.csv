@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-05-20T21:23:18.604Z,60.8417,-146.86,9.7,1.5,ml,,,,1.13,ak,ak0226fvvnqi,2022-05-20T21:38:11.417Z,"10 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
+2022-05-20T21:23:18.604Z,60.8417,-146.86,9.7,1.5,ml,,,,1.13,ak,ak0226fvvnqi,2022-05-20T21:46:31.964Z,"10 km WSW of Tatitlek, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-20T21:18:37.250Z,61.9082,-149.2848,18.9,1.2,ml,,,,0.52,ak,ak0226fvumlp,2022-05-20T21:31:33.304Z,"18 km N of Fishhook, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-05-20T21:15:43.183Z,-20.7801,-69.2209,106.73,4.1,mb,,77,0.361,0.4,us,us6000hms5,2022-05-20T21:32:09.040Z,"115 km ESE of Iquique, Chile",earthquake,5.4,4.3,0.26,4,reviewed,us,us
 2022-05-20T21:01:08.600Z,17.9793333333333,-66.9571666666667,9.78,2.16,md,11,171,,0.09,pr,pr71349598,2022-05-20T21:23:14.580Z,"4 km WSW of Fuig, Puerto Rico",earthquake,0.33,0.53,0.0550892920663921,8,reviewed,pr,pr
@@ -98,6 +98,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T08:49:39.123Z,62.9752,-151.1191,21.7,1,ml,,,,1.22,ak,ak0226foan6k,2022-05-20T09:01:50.969Z,"56 km NNW of Petersville, Alaska",earthquake,,1.9,,,automatic,ak,ak
 2022-05-20T08:29:13.581Z,58.7608,-154.3439,119.3,1.2,ml,,,,0.43,ak,ak0226fo6asi,2022-05-20T08:37:05.074Z,"79 km SSE of Kokhanok, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2022-05-20T08:20:42.554Z,63.4633,-148.2156,5.8,1.1,ml,,,,1.03,ak,ak0226fo4fkt,2022-05-20T08:33:24.292Z,"37 km ENE of Cantwell, Alaska",earthquake,,0.4,,,automatic,ak,ak
+2022-05-20T08:19:04.350Z,53.8515,-166.638166666667,8.62,1.12,ml,6,155,,0.07,av,av91568211,2022-05-20T21:44:59.630Z,"7 km WSW of Unalaska, Alaska",earthquake,0.33,0.6,0.402164035077399,6,reviewed,av,av
 2022-05-20T08:16:49.080Z,37.9438333,-118.5413333,9.38,2.61,md,38,73,0.1786,0.13,nc,nc73735931,2022-05-20T16:37:44.581Z,"40km S of Qualeys Camp, NV",earthquake,0.3,1.58,0.118,31,reviewed,nc,nc
 2022-05-20T08:10:39.335Z,60.9672,-150.7221,123.2,0.8,ml,,,,0.78,ak,ak0226fo2a65,2022-05-20T08:23:20.579Z,"5 km NNW of Point Possession, Alaska",earthquake,,2,,,automatic,ak,ak
 2022-05-20T08:07:18.358Z,39.1952,-119.6295,3.3,0.2,ml,7,104.7,0.109,0.1058,nn,nn00839211,2022-05-20T19:00:01.359Z,"5 km SW of Dayton, Nevada",earthquake,,10,0,1,reviewed,nn,nn
@@ -173,4 +174,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-19T22:11:37.083Z,63.2032,-150.468,112.4,1.1,ml,,,,0.29,ak,ak0226e8v7os,2022-05-19T22:34:14.671Z,"73 km ESE of Denali National Park, Alaska",earthquake,,1.6,,,automatic,ak,ak
 2022-05-19T22:10:48.208Z,62.6713,-149.9126,18,1,ml,,,,0.47,ak,ak0226e8v0tw,2022-05-19T22:23:39.888Z,"26 km NNE of Chase, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-05-19T22:01:57.488Z,61.5965,-149.8182,51.7,1.7,ml,,,,0.34,ak,ak0226e8t43s,2022-05-19T22:14:21.055Z,"3 km S of Houston, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-05-19T21:53:54.140Z,38.8226662,-122.805336,3.18,0.96,md,19,52,0.003772,0.02,nc,nc73735811,2022-05-19T22:05:11.789Z,"7km NW of The Geysers, CA",earthquake,0.25,0.6,0.21,3,automatic,nc,nc
