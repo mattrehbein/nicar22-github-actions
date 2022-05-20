@@ -20885,3 +20885,4 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-20T12:31:06.321Z,4.2989,126.2709,82.77,4.6,mb,,69.0,2.837,0.59,us,us6000hmlc,2022-05-20T13:23:18.040Z,"151 km SE of Sarangani, Philippines",earthquake,3.4,7.6,0.094,34.0,reviewed,us,us
 2022-05-20T00:00:34.020Z,34.1791667,-80.7051667,2.5,1.76,md,6.0,116.0,0.04257,0.28,se,se60150948,2022-05-20T13:26:08.346Z,"5 km SSW of Lugoff, South Carolina",earthquake,1.29,2.36,0.053,4.0,reviewed,se,se
 2022-05-19T19:25:15.199Z,35.11333333,-95.5575,2.06,1.21,ml,23.0,180.0,0.1142775748,0.23,ok,ok2022jtpw,2022-05-20T13:13:41.787Z,"10 km E of Crowder, Oklahoma",earthquake,,1.4,0.27,10.0,reviewed,ok,ok
+2022-05-20T13:46:22.120Z,19.3106670379639,-155.806503295898,7.80999994277954,2.22,ml,39.0,124.0,,0.310000002,hv,hv73018092,2022-05-20T13:51:54.050Z,"17 km SSE of Honaunau-Napoopoo, Hawaii",earthquake,0.62,0.680000007,4.54,4.0,automatic,hv,hv
