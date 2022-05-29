@@ -170,5 +170,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-05-28T10:58:19.460Z,33.6221667,-118.0083333,14.82,1.17,ml,18,228,0.08263,0.15,ci,ci40029103,2022-05-28T11:01:59.526Z,"7km W of Newport Beach, CA",earthquake,0.85,0.49,0.242,17,automatic,ci,ci
 2022-05-28T10:56:48.500Z,17.8921666666667,-66.8833333333333,15.46,2.21,md,10,237,,0.07,pr,pr71351133,2022-05-28T11:26:11.140Z,"9 km SSE of Guánica, Puerto Rico",earthquake,0.59,0.62,0.0491861157979709,5,reviewed,pr,pr
 2022-05-28T10:55:16.810Z,34.9505,-119.2101667,0.62,1.05,ml,9,165,0.1026,0.24,ci,ci40029095,2022-05-28T10:58:54.467Z,"13km NNW of Pine Mountain Club, CA",earthquake,0.63,0.75,0.141,10,automatic,ci,ci
-2022-05-28T10:47:31.480Z,34.0813333,-117.2606667,13.86,0.88,ml,22,74,0.06472,0.21,ci,ci40029087,2022-05-28T10:51:13.880Z,"4km N of Loma Linda, CA",earthquake,0.39,0.83,0.247,18,automatic,ci,ci
-2022-05-28T10:43:43.590Z,18.0591666666667,-67.5328333333333,8.09,2.48,md,7,270,,0.19,pr,pr71351128,2022-05-28T11:16:19.070Z,"36 km W of Puerto Real, Puerto Rico",earthquake,1.17,1.78,0.091353142736514,5,reviewed,pr,pr
