@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-06-12T15:28:01.550Z,19.1961669921875,-155.389663696289,32.8899993896484,2,md,38,170,,0.140000001,hv,hv73042072,2022-06-12T15:31:12.080Z,"9 km E of Pāhala, Hawaii",earthquake,0.57,0.730000019,0.129999995,13,automatic,hv,hv
 2022-06-12T14:53:01.220Z,19.2695007324219,-155.382171630859,32.5400009155273,1.70000005,md,24,222,,0.109999999,hv,hv73042052,2022-06-12T14:56:05.840Z,"12 km NE of Pāhala, Hawaii",earthquake,0.89,0.709999979,0.349999994,5,automatic,hv,hv
 2022-06-12T14:29:49.907Z,55.5554,-161.2031,143.4,1.7,ml,,,,0.64,ak,ak0227ht42w7,2022-06-12T15:06:11.589Z,"49 km S of Nelson Lagoon, Alaska",earthquake,,0.7,,,reviewed,ak,ak
 2022-06-12T13:51:51.599Z,61.3115,-152.1424,0,1.1,ml,,,,0.41,ak,ak0227hsn92c,2022-06-12T14:57:50.472Z,"60 km WNW of Beluga, Alaska",ice quake,,0,,,reviewed,ak,ak
