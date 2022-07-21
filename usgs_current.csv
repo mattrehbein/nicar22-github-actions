@@ -1,6 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-07-21T07:24:51.450Z,38.3256683,-123.0051651,14.62,1.56,md,7,211,0.1359,0.03,nc,nc73761186,2022-07-21T07:26:25.693Z,"4km ESE of Bodega Bay, CA",earthquake,1.81,0.64,0.28,6,automatic,nc,nc
-2022-07-21T07:21:15.430Z,38.8171654,-122.8249969,2.31,0.85,md,14,71,0.008906,0.02,nc,nc73761181,2022-07-21T07:30:10.814Z,"7km NW of The Geysers, CA",earthquake,0.29,0.83,,1,automatic,nc,nc
+2022-07-21T07:39:10.380Z,34.9508324,-118.6128311,8.14,1.79,ml,46,36,0.05982,0.18,ci,ci40067135,2022-07-21T07:41:29.988Z,"19km N of Neenach, CA",earthquake,0.26,0.92,0.24,9,automatic,ci,ci
+2022-07-21T07:24:51.450Z,38.3256683,-123.0051651,14.62,1.56,md,7,211,0.1359,0.03,nc,nc73761186,2022-07-21T07:34:09.843Z,"4km ESE of Bodega Bay, CA",earthquake,1.81,0.64,0.28,6,automatic,nc,nc
+2022-07-21T07:21:15.430Z,38.8171654,-122.8249969,2.31,0.85,md,14,71,0.008906,0.02,nc,nc73761181,2022-07-21T07:38:16.865Z,"7km NW of The Geysers, CA",earthquake,0.29,0.83,,1,automatic,nc,nc
 2022-07-21T07:19:15.980Z,33.6353333,-116.6776667,13.98,0.42,ml,13,101,0.06903,0.05,ci,ci40067127,2022-07-21T07:22:53.868Z,"9km N of Anza, CA",earthquake,0.19,0.35,0.136,9,automatic,ci,ci
 2022-07-21T07:11:08.010Z,19.5053329467773,-155.568496704102,1.37999999523163,1.82,ml,6,123,,0.140000001,hv,hv73082757,2022-07-21T07:16:39.300Z,"31 km E of Honaunau-Napoopoo, Hawaii",earthquake,0.86,1.51999998,4,4,automatic,hv,hv
 2022-07-21T07:04:14.540Z,33.7758333,-118.25,14.94,1.44,ml,14,140,0.04504,0.23,ci,ci40067119,2022-07-21T07:07:57.752Z,"6km NE of San Pedro, CA",earthquake,0.93,0.57,0.317,35,automatic,ci,ci
@@ -194,6 +195,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-07-20T07:58:45.010Z,38.8196678,-122.7851639,1.62,1,md,17,57,0.007294,0.03,nc,nc73760936,2022-07-20T09:51:10.129Z,"5km NNW of The Geysers, CA",earthquake,0.24,0.45,0.15,3,automatic,nc,nc
 2022-07-20T07:55:01.020Z,17.9656666666667,-66.981,5.84,2.55,md,24,202,,0.12,pr,pr71360413,2022-07-20T08:22:45.130Z,"7 km E of La Parguera, Puerto Rico",earthquake,0.39,0.24,0.163904735777728,12,reviewed,pr,pr
 2022-07-20T07:53:25.029Z,60.6771,-151.743,72.6,1.6,ml,,,,0.35,ak,ak02298ji7di,2022-07-20T07:55:05.750Z,"24 km WNW of Salamatof, Alaska",earthquake,,0.7,,,automatic,ak,ak
-2022-07-20T07:41:49.570Z,51.7365,179.976333333333,11.5,2.36,ml,12,127,,0.14,av,av91639171,2022-07-21T00:40:10.820Z,"234 km W of Adak, Alaska",earthquake,0.91,1.92,0.225606109533582,12,reviewed,av,av
-2022-07-20T07:41:15.350Z,37.6108322,-122.4974976,8.58,1.44,md,16,169,0.02463,0.05,nc,nc73760931,2022-07-20T08:58:10.803Z,"1km WSW of Pacifica, CA",earthquake,0.44,0.57,0.22,10,automatic,nc,nc
-2022-07-20T07:33:57.540Z,32.3495,-116.7141667,14.56,1.15,ml,24,201,0.05612,0.18,ci,ci40066607,2022-07-20T21:40:43.185Z,"24km NE of Primo Tapia, B.C., MX",earthquake,0.41,0.43,0.182,14,reviewed,ci,ci
