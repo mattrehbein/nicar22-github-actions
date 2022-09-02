@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-09-02T11:35:54.900Z,34.5418333,-119.2053333,0.27,1.56,ml,31,43,0.1187,0.23,ci,ci40095023,2022-09-02T11:39:44.294Z,"11km NNE of Ojai, CA",earthquake,0.3,31.61,0.242,30,automatic,ci,ci
 2022-09-02T10:51:56.890Z,38.770668,-122.7381668,-0.52,0.54,md,8,94,0.0138,0.02,nc,nc73774625,2022-09-02T11:08:13.868Z,"2km ESE of The Geysers, CA",earthquake,0.29,1.47,0.21,3,automatic,nc,nc
 2022-09-02T10:43:51.740Z,33.754,-116.9195,13.05,0.47,ml,12,62,0.06684,0.14,ci,ci40095007,2022-09-02T10:47:15.540Z,"2km WNW of Valle Vista, CA",earthquake,0.44,0.64,0.12,9,automatic,ci,ci
 2022-09-02T10:41:11.178Z,66.2169,-147.9814,0,1.4,ml,,,,0.94,ak,ak022b9cv699,2022-09-02T10:43:23.624Z,"northern Alaska",earthquake,,0.3,,,automatic,ak,ak
@@ -161,7 +162,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-09-01T20:04:07.830Z,39.4285,-110.2973333,-2.07,1.83,ml,14,183,0.02195,0.17,uu,uu60513207,2022-09-01T22:04:16.770Z,"15 km SSE of Sunnyside, Utah",earthquake,0.91,0.88,0.092,6,reviewed,uu,uu
 2022-09-01T20:01:19.380Z,38.824501,-122.8280029,2.23,0.95,md,25,42,0.005661,0.02,nc,nc73774405,2022-09-01T22:06:11.017Z,"8km NW of The Geysers, CA",earthquake,0.19,0.35,0.08,5,automatic,nc,nc
 2022-09-01T19:54:08.550Z,19.2253341674805,-155.428161621094,32.0200004577637,1.83000004,md,35,128,,0.119999997,hv,hv73128457,2022-09-01T19:57:30.340Z,"5 km ENE of Pāhala, Hawaii",earthquake,0.7,0.810000002,1.40999997,11,automatic,hv,hv
-2022-09-01T19:46:28.592Z,44.6788,-67.6355,5,2.6,mb_lg,13,154,0.13,0.52,us,us7000i4ff,2022-09-02T03:40:26.182Z,"4 km SE of Centerville, Maine",earthquake,1.8,1.985,0.161,10,reviewed,us,us
+2022-09-01T19:46:28.592Z,44.6788,-67.6355,5,2.6,mb_lg,13,154,0.13,0.52,us,us7000i4ff,2022-09-02T11:43:17.802Z,"4 km SE of Centerville, Maine",earthquake,1.8,1.985,0.161,10,reviewed,us,us
 2022-09-01T19:41:23.810Z,38.8199997,-122.7874985,2.24,0.84,md,8,89,0.008581,0.01,nc,nc73774400,2022-09-01T21:37:12.851Z,"6km NNW of The Geysers, CA",earthquake,0.71,1.64,,1,automatic,nc,nc
 2022-09-01T19:37:13.408Z,19.827,121.2405,41.645,4.4,mb,38,127,2.98,0.73,us,us7000i4f1,2022-09-01T21:15:12.040Z,"102 km SW of Basco, Philippines",earthquake,10.67,7.949,0.112,23,reviewed,us,us
 2022-09-01T19:23:34.070Z,33.502,-116.7818333,7.69,0.3,ml,19,101,0.07336,0.1,ci,ci40094447,2022-09-01T20:20:36.406Z,"10km NE of Aguanga, CA",earthquake,0.24,0.55,0.105,8,reviewed,ci,ci
