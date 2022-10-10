@@ -190,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-09T12:26:39.020Z,48.309666666666665,-125.06633333333333,8.89,1.6300000000000001,ml,17,273,0.2948,0.56,uw,uw61877922,2022-10-09T20:29:47.280Z,"33 km WSW of Neah Bay, Washington",earthquake,1.93,35.6,0.1548720662236207,11,reviewed,uw,uw
 2022-10-09T12:25:26.313Z,38.1876,-117.8628,8.7,1.3,ml,10,144.52,0.09,0.1574,nn,nn00848881,2022-10-09T12:28:46.778Z,"31 km SE of Mina, Nevada",earthquake,,0.8,0.26,6,automatic,nn,nn
 2022-10-09T12:09:20.400Z,38.831501,-122.8161697,1.52,0.88,md,17,56,0.009391,0.02,nc,nc73791361,2022-10-09T12:10:54.476Z,"8km NW of The Geysers, CA",earthquake,0.24,0.43,0.02,3,automatic,nc,nc
-2022-10-09T11:52:33.160Z,33.9691667,-116.953,4.21,0.61,ml,15,67,0.05288,0.17,ci,ci40358176,2022-10-09T11:56:03.649Z,"5km NNE of Beaumont, CA",earthquake,0.34,0.61,0.12,13,automatic,ci,ci
