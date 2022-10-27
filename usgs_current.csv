@@ -243,7 +243,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-26T00:20:10.600Z,37.3163333,-121.6811667,7.98,2.72,md,109,39,0.03981,0.07,nc,nc73799211,2022-10-26T22:51:37.370Z,"14km ESE of Alum Rock, CA",earthquake,0.08,0.2,0.154,137,reviewed,nc,nc
 2022-10-26T00:18:54.999Z,31.65983597,-104.3210311,7.699755859,2,ml,29,55,0.04928488733,0.2,tx,tx2022uymn,2022-10-26T19:20:36.858Z,"57 km S of Whites City, New Mexico",earthquake,0.741510038,0.8564044586,0,7,reviewed,tx,tx
 2022-10-26T00:02:47.939Z,55.5213,166.3788,10,4.9,mb,69,83,5.174,0.38,us,us7000ikdk,2022-10-26T00:22:36.040Z,"256 km ESE of Ust’-Kamchatsk Staryy, Russia",earthquake,9.48,1.884,0.037,235,reviewed,us,us
-2022-10-25T23:57:14.686Z,60.3592,-141.4401,8,1.3,ml,,,,0.2,ak,ak022dp86n0k,2022-10-26T00:08:57.790Z,"Southern Alaska",earthquake,,1.2,,,automatic,ak,ak
-2022-10-25T23:56:04.691Z,37.6356,-116.7117,12.7,1.3,ml,12,183.46,0.406,0.134,nn,nn00850012,2022-10-26T02:43:19.914Z,"46 km E of Goldfield, Nevada",earthquake,,12.6,0.24,8,reviewed,nn,nn
-2022-10-25T23:55:18.733Z,61.359,-152.825,10.4,1.1,ml,,,,0.84,ak,ak022dp867wh,2022-10-25T23:56:39.974Z,"Southern Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-10-25T23:54:19.732Z,2.756,128.3655,212.676,4.6,mb,37,117,2.209,0.9,us,us7000ikde,2022-10-26T00:13:34.040Z,"120 km NNE of Tobelo, Indonesia",earthquake,11.07,7.978,0.107,26,reviewed,us,us
