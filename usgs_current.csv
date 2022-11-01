@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-01T08:17:47.444Z,63.5754,-149.7591,35.9,2,ml,,,,1.07,ak,ak022e0js2ah,2022-11-01T08:20:58.779Z,"45 km WNW of Cantwell, Alaska",earthquake,,6.8,,,automatic,ak,ak
+2022-11-01T08:12:25.770Z,33.217,-116.7436667,11.34,0.7,ml,23,45,0.02277,0.13,ci,ci40127999,2022-11-01T08:15:59.114Z,"3km SSE of Lake Henshaw, CA",earthquake,0.25,0.58,0.206,10,automatic,ci,ci
+2022-11-01T08:04:46.080Z,38.6001663,-122.8003311,0.33,1.79,md,30,45,0.1154,0.21,nc,nc73801996,2022-11-01T08:17:10.980Z,"6km NNE of Windsor, CA",earthquake,0.42,9.44,0.1,15,automatic,nc,nc
 2022-11-01T07:49:53.656Z,62.5141,-151.0771,79.1,2.2,ml,,,,0.48,ak,ak022e0jdi2t,2022-11-01T07:52:07.291Z,"16 km W of Petersville, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2022-11-01T07:41:08.297Z,38.171,-117.9159,10,0.5,ml,10,155.56,0.047,0.1161,nn,nn00850377,2022-11-01T07:44:30.541Z,"29 km SE of Mina, Nevada",earthquake,,0.6,0.25,4,automatic,nn,nn
 2022-11-01T07:32:36.790Z,19.4008331298828,-155.292327880859,1.42999994754791,2.18000007,md,8,77,,0.0900000036,hv,hv73203137,2022-11-01T07:35:33.220Z,"Hawaii region, Hawaii",earthquake,0.5,0.389999986,2.38000011,4,automatic,hv,hv
@@ -197,7 +200,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T10:23:01.950Z,38.5151672,-119.4781647,7.92,2,md,6,147,0.03318,0.03,nc,nc73801671,2022-10-31T22:27:09.734Z,"0km ENE of Walker, CA",earthquake,0.71,1.09,0.23,4,automatic,nc,nc
 2022-10-31T10:18:50.530Z,35.9056667,-118.3446667,16.11,1.37,ml,24,49,0.1493,0.14,ci,ci40127543,2022-10-31T19:18:56.820Z,"18km NNE of Kernville, CA",earthquake,0.2,0.69,0.25,13,reviewed,ci,ci
 2022-10-31T10:18:00.187Z,37.0557,-104.9516,5.624,2.2,ml,14,84,0.15,0.75,us,us7000ilg7,2022-10-31T13:05:52.040Z,"Colorado",earthquake,1.73,1.59,0.101,13,reviewed,us,us
-2022-10-31T10:14:29.540Z,37.6316681,-121.8206635,5.94,2.24,md,32,58,0.01488,0.13,nc,nc73801666,2022-10-31T22:02:30.071Z,"6km SE of Pleasanton, CA",earthquake,0.22,0.4,0.11,29,automatic,nc,nc
+2022-10-31T10:14:29.540Z,37.6316681,-121.8206635,5.94,2.24,md,32,58,0.01488,0.13,nc,nc73801666,2022-11-01T08:21:53.974Z,"6km SE of Pleasanton, CA",earthquake,0.22,0.4,0.11,29,automatic,nc,nc
 2022-10-31T10:10:06.259Z,39.3977,-119.6745,6.7,0.5,ml,4,265.59,0.07,0.0186,nn,nn00850359,2022-11-01T02:43:51.231Z,"Nevada",earthquake,,5.1,0,1,reviewed,nn,nn
 2022-10-31T10:08:26.080Z,37.6409988,-121.8259964,2.96,1.79,md,14,60,0.01924,0.07,nc,nc73801656,2022-10-31T13:05:12.892Z,"5km ESE of Pleasanton, CA",earthquake,0.27,0.58,0.12,12,automatic,nc,nc
 2022-10-31T10:07:20.520Z,40.412,-121.3598333,6.64,1.77,md,15,100,0.1315,0.11,nc,nc73801661,2022-10-31T23:09:11.556Z,"16km NW of Chester, CA",earthquake,0.42,1.48,0.136,20,reviewed,nc,nc
@@ -218,7 +221,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-10-31T08:26:13.200Z,40.435,-121.3708333,5.08,1.82,md,23,68,0.1161,0.17,nc,nc73801631,2022-11-01T01:42:10.488Z,"18km NW of Chester, CA",earthquake,0.45,1.5,0.157,19,reviewed,nc,nc
 2022-10-31T08:25:03.650Z,33.5028333,-116.7896667,6.41,0.41,ml,22,63,0.01304,0.1,ci,ci40127527,2022-10-31T19:12:38.072Z,"10km NE of Aguanga, CA",earthquake,0.18,0.36,0.063,9,reviewed,ci,ci
 2022-10-31T08:24:29.240Z,18.0186666666667,-66.7508333333333,15.74,2.16,md,7,171,0.01916,0.09,pr,pr71380298,2022-10-31T08:48:26.950Z,"1 km E of Magas Arriba, Puerto Rico",earthquake,0.35,0.6,0.139743005386766,5,reviewed,pr,pr
-2022-10-31T08:14:33.784Z,-38.7565,-91.8537,10,5.8,mww,54,237,11.69,0.91,us,us7000ilfn,2022-10-31T10:17:13.619Z,"West Chile Rise",earthquake,15.53,1.995,0.078,16,reviewed,us,us
-2022-10-31T08:14:27.670Z,36.5628319,-121.1501694,4.56,1.94,md,16,117,0.02971,0.05,nc,nc73801626,2022-10-31T11:56:11.457Z,"4km N of Pinnacles, CA",earthquake,0.28,0.65,0.11,14,automatic,nc,nc
-2022-10-31T08:07:04.340Z,40.4086667,-121.3648333,6.87,1.91,md,15,164,0.1294,0.12,nc,nc73801621,2022-11-01T05:44:11.008Z,"16km NW of Chester, CA",earthquake,0.52,1.46,0.204,21,reviewed,nc,nc
-2022-10-31T08:06:00.440Z,37.0644989,-121.4998322,4.82,1.66,md,27,46,0.04093,0.19,nc,nc73801616,2022-10-31T11:08:10.173Z,"9km NE of Gilroy, CA",earthquake,0.37,0.91,0.21,22,automatic,nc,nc
