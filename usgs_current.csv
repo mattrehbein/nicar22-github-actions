@@ -1,9 +1,10 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-06T10:43:11.330Z,33.8943333,-116.23,7.52,1.1,ml,34,49,0.05638,0.16,ci,ci40129591,2022-11-06T10:46:46.609Z,"17km ENE of Thousand Palms, CA",earthquake,0.21,0.63,0.167,28,automatic,ci,ci
 2022-11-06T10:29:37.445Z,62.9186,-150.3136,14.5,1.6,ml,,,,0.44,ak,ak022e8uq7sg,2022-11-06T10:31:47.822Z,"52 km NNE of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-06T10:12:24.690Z,33.6391667,-116.6995,12.61,0.63,ml,22,80,0.07045,0.12,ci,ci40129583,2022-11-06T10:15:49.111Z,"10km NNW of Anza, CA",earthquake,0.28,0.42,0.172,16,automatic,ci,ci
 2022-11-06T10:05:28.035Z,60.4451,-152.8614,17.9,1.8,ml,,,,0.72,ak,ak022e8ul1vn,2022-11-06T10:07:04.545Z,"79 km WNW of Ninilchik, Alaska",earthquake,,0.1,,,automatic,ak,ak
 2022-11-06T10:04:45.790Z,46.0753,-111.7894,5,1.3,ml,12,91,0.491,0.55,us,us7000imwj,2022-11-06T10:29:26.040Z,"18 km SW of Radersburg, Montana",earthquake,1.88,1.913,0.091,16,reviewed,us,us
-2022-11-06T10:02:04.832Z,51.5652,-175.9836,48.319,5.1,mww,118,135,0.397,0.7,us,us7000imwh,2022-11-06T10:24:30.481Z,"56 km SE of Adak, Alaska",earthquake,2.97,5.618,0.08,15,reviewed,us,us
+2022-11-06T10:02:04.832Z,51.5652,-175.9836,48.319,5.1,mww,118,135,0.397,0.7,us,us7000imwh,2022-11-06T10:42:20.245Z,"56 km SE of Adak, Alaska",earthquake,2.97,5.618,0.08,15,reviewed,us,us
 2022-11-06T09:52:56.022Z,56.0085,-160.3759,160.756,3.4,ml,26,139,0.663,0.43,us,us7000imwg,2022-11-06T09:59:45.040Z,"51 km E of Nelson Lagoon, Alaska",earthquake,7.41,8.954,0.062,34,reviewed,us,us
 2022-11-06T09:42:55.035Z,58.4437,-153.7785,66.4,2,ml,,,,0.39,ak,ak022e8u7lun,2022-11-06T09:45:04.858Z,"66 km NW of Aleneva, Alaska",earthquake,,1,,,automatic,ak,ak
 2022-11-06T09:39:51.270Z,38.8400002,-122.8359985,1.41,0.92,md,13,112,0.001465,0.02,nc,nc73804346,2022-11-06T09:41:29.103Z,"10km NW of The Geysers, CA",earthquake,0.28,0.49,0.36,2,automatic,nc,nc
@@ -204,7 +205,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T13:18:42.160Z,38.1606,-117.9441,8.7,0.2,ml,8,145.58,0.159,0.0531,nn,nn00850649,2022-11-05T13:22:12.504Z,"29 km SSE of Mina, Nevada",earthquake,,2.8,0.6,5,automatic,nn,nn
 2022-11-05T12:42:20.151Z,58.2509,-155.1053,0,1.5,ml,,,,0.57,ak,ak022e78ghhb,2022-11-05T12:43:52.663Z,"Alaska Peninsula",earthquake,,0.4,,,automatic,ak,ak
 2022-11-05T12:38:23.331Z,62.041,-150.1034,25.1,1.1,ml,,,,0.33,ak,ak022e78fmv1,2022-11-05T12:57:15.350Z,"18 km SW of Susitna North, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-05T12:32:09.273Z,-28.7196,30.8441,9.779,4.6,mb,24,53,4.912,0.37,us,us7000impz,2022-11-06T09:26:36.128Z,"South Africa",earthquake,6.5,5.215,0.207,7,reviewed,us,us
+2022-11-05T12:32:09.273Z,-28.7196,30.8441,9.779,4.6,mb,24,53,4.912,0.37,us,us7000impz,2022-11-06T10:48:26.097Z,"South Africa",earthquake,6.5,5.215,0.207,7,reviewed,us,us
 2022-11-05T12:27:24.858Z,63.073,-150.4844,103.9,1.7,ml,,,,0.32,ak,ak022e78da3p,2022-11-05T12:30:33.543Z,"65 km NNE of Petersville, Alaska",earthquake,,0.9,,,automatic,ak,ak
 2022-11-05T12:22:47.380Z,37.5415,-118.8475,7.35,0.09,md,6,223,0.0506,0.01,nc,nc73803811,2022-11-05T16:21:10.458Z,"15km W of Toms Place, CA",earthquake,1.56,3.85,0.106,5,reviewed,nc,nc
 2022-11-05T12:20:54.092Z,35.9997,27.5159,10,4,mb,27,129,0.535,0.8,us,us7000impm,2022-11-05T13:12:59.040Z,"39 km SW of Émponas, Greece",earthquake,3.93,1.989,0.173,9,reviewed,us,us
@@ -223,4 +224,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-05T11:08:40.270Z,19.1591663360596,-155.510665893555,36.7400016784668,1.77999997,md,40,126,,0.129999995,hv,hv73208907,2022-11-05T11:11:58.220Z,"5 km SW of Pāhala, Hawaii",earthquake,0.55,0.829999983,1.77999997,4,automatic,hv,hv
 2022-11-05T11:06:35.395Z,60.3672,-143.4925,4.5,2.1,ml,,,,0.58,ak,ak022e77nd9v,2022-11-05T11:08:35.310Z,"122 km SSW of McCarthy, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-11-05T10:59:26.160Z,35.6486667,-117.5008333,8.63,2.64,ml,29,85,0.1661,0.13,ci,ci40129239,2022-11-06T03:18:36.189Z,"16km SSW of Searles Valley, CA",earthquake,0.23,0.79,0.144,25,automatic,ci,ci
-2022-11-05T10:43:45.280Z,38.8300018,-122.8151703,2.68,0.85,md,8,80,0.007705,0.02,nc,nc73803781,2022-11-05T12:43:12.875Z,"8km NW of The Geysers, CA",earthquake,0.48,0.92,,1,automatic,nc,nc
