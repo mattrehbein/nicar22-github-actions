@@ -1,8 +1,11 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-11-12T09:58:48.186Z,43.8328,-109.2494,10.289,3.5,ml,68,35,1.006,0.61,us,us7000ip9u,2022-11-12T10:12:46.603Z,"Wyoming",earthquake,2.89,8.476,0.051,50,reviewed,us,us
+2022-11-12T09:52:21.900Z,19.1809997558594,-155.497329711914,30.4899997711182,2.33,ml,41,92,,0.170000002,hv,hv73218107,2022-11-12T09:57:53.490Z,"3 km SW of Pāhala, Hawaii",earthquake,0.56,0.879999995,4.36,6,automatic,hv,hv
 2022-11-12T09:44:20.250Z,36.2285,-118.0333333,-0.65,1.31,ml,14,98,0.182,0.27,ci,ci40131407,2022-11-12T09:48:03.491Z,"6km SSW of Olancha, CA",earthquake,0.61,31.61,0.18,11,automatic,ci,ci
-2022-11-12T09:41:32.170Z,38.8336678,-122.817337,1.82,0.85,md,12,64,0.01172,0.01,nc,nc73804210,2022-11-12T09:53:11.704Z,"8km NW of The Geysers, CA",earthquake,0.28,0.83,,1,automatic,nc,nc
+2022-11-12T09:41:32.170Z,38.8336678,-122.817337,1.82,0.85,md,12,64,0.01172,0.01,nc,nc73804210,2022-11-12T10:05:16.776Z,"8km NW of The Geysers, CA",earthquake,0.28,0.83,,1,automatic,nc,nc
 2022-11-12T09:23:36.476Z,61.7763,-149.8483,35.5,1.8,ml,,,,0.33,ak,ak022eirbkrz,2022-11-12T09:25:33.652Z,"Southern Alaska",earthquake,,3.3,,,automatic,ak,ak
-2022-11-12T09:06:45.910Z,38.8233337,-122.8018341,2.38,0.98,md,24,39,0.006437,0.04,nc,nc73804200,2022-11-12T09:24:14.534Z,"6km NW of The Geysers, CA",earthquake,0.23,0.44,0.19,3,automatic,nc,nc
+2022-11-12T09:21:57.170Z,18.824,-67.3291666666667,15.57,3.34,md,14,219,0.4104,0.49,pr,pr71381983,2022-11-12T09:57:45.040Z,"Puerto Rico region",earthquake,2.24,3.07,0.123461832989831,5,reviewed,pr,pr
+2022-11-12T09:06:45.910Z,38.8233337,-122.8018341,2.38,0.98,md,24,39,0.006437,0.04,nc,nc73804200,2022-11-12T10:03:10.762Z,"6km NW of The Geysers, CA",earthquake,0.23,0.44,0.19,3,automatic,nc,nc
 2022-11-12T09:06:13.310Z,19.4226665496826,-155.234832763672,1.4099999666214,1.80999994,md,12,132,,0.219999999,hv,hv73218042,2022-11-12T09:09:10.260Z,"2 km S of Volcano, Hawaii",earthquake,0.35,0.379999995,1.34000003,9,automatic,hv,hv
 2022-11-12T08:47:33.610Z,38.8318329,-122.8160019,1.84,1.15,md,27,47,0.009614,0.03,nc,nc73804195,2022-11-12T09:38:09.616Z,"8km NW of The Geysers, CA",earthquake,0.17,0.32,0.16,5,automatic,nc,nc
 2022-11-12T08:33:43.600Z,35.8893333,-117.7258333,2.33,1.12,ml,13,110,0.08662,0.16,ci,ci40131399,2022-11-12T08:37:23.170Z,"17km ESE of Little Lake, CA",earthquake,0.32,0.38,0.126,14,automatic,ci,ci
@@ -184,6 +187,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-11T10:21:44.440Z,18.0326666666667,-66.7395,11.58,2.45,md,15,151,0.03512,0.16,pr,pr71381878,2022-11-11T12:49:19.100Z,"3 km SW of Peñuelas, Puerto Rico",earthquake,0.33,0.55,0.0857810107468935,10,reviewed,pr,pr
 2022-11-11T10:21:02.670Z,62.9668,-149.3255,19.9,1.4,ml,,,,1.1,ak,ak022eh4d5uj,2022-11-11T10:22:49.623Z,"50 km SSW of Cantwell, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-11-11T10:16:32.112Z,-7.5003,127.8668,159.738,4.5,mb,45,54,3.435,0.48,us,us7000ip0g,2022-11-11T10:32:47.040Z,"148 km NE of Lospalos, Timor Leste",earthquake,7.55,7.657,0.098,31,reviewed,us,us
-2022-11-11T10:11:29.703Z,61.0468,-148.8642,27.7,1.1,ml,,,,0.35,ak,ak022eh4b2r1,2022-11-11T10:13:56.693Z,"20 km NE of Girdwood, Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-11T10:05:18.377Z,59.2977,-153.2234,81.2,2,ml,,,,0.33,ak,ak022eh49rlp,2022-11-11T10:07:29.360Z,"73 km SE of Pedro Bay, Alaska",earthquake,,0.5,,,automatic,ak,ak
-2022-11-11T09:55:50.140Z,38.8251648,-122.7851639,1.09,0.92,md,17,45,0.01239,0.02,nc,nc73803725,2022-11-11T10:27:18.349Z,"5km W of Cobb, CA",earthquake,0.21,0.41,0.19,3,automatic,nc,nc
