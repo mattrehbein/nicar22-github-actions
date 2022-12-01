@@ -1,5 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-01T09:48:59.130Z,38.8230019,-122.7818298,9.12,1.48,md,9,123,0.00977,0.09,nc,nc73813391,2022-12-01T09:50:32.989Z,"5km W of Cobb, CA",earthquake,2.15,6.54,,1,automatic,nc,nc
+2022-12-01T09:48:59.130Z,38.8230019,-122.7818298,9.12,1.48,md,9,123,0.00977,0.09,nc,nc73813391,2022-12-01T09:59:11.382Z,"5km W of Cobb, CA",earthquake,2.15,6.54,,1,automatic,nc,nc
 2022-12-01T09:27:54.094Z,35.28312683,-98.02507019,5.431380272,1.53,ml,11,77.24757385,0.0771619454,0.4007665525,ok,ok2022xmyt,2022-12-01T09:29:51.884Z,"8 km WSW of Minco, Oklahoma",earthquake,3.89176582,5.320344424,,8,automatic,ok,ok
 2022-12-01T09:20:59.210Z,36.326000213623,-89.5203323364258,7.88000011444092,2.00999999,md,21,59,0.07026,0.150000006,nm,nm60501311,2022-12-01T09:25:41.290Z,"7 km SW of Tiptonville, Tennessee",earthquake,0.33,1.30999994,0.439999998,15,reviewed,nm,nm
 2022-12-01T09:09:25.250Z,19.2964992523193,-155.414993286133,30.0599994659424,2.37,ml,48,104,,0.140000001,hv,hv73249002,2022-12-01T09:14:55.330Z,"12 km NNE of Pāhala, Hawaii",earthquake,0.53,0.649999976,3.62,24,automatic,hv,hv
@@ -49,6 +49,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-01T05:06:41.310Z,33.2171667,-116.0675,6.21,1.64,ml,46,51,0.08696,0.22,ci,ci40382976,2022-12-01T05:17:19.300Z,"10km NE of Ocotillo Wells, CA",earthquake,0.28,1.31,0.183,28,automatic,ci,ci
 2022-12-01T04:54:42.505Z,40.5086,143.8366,24.814,4.9,mb,66,131,1.59,0.5,us,us6000j5xr,2022-12-01T06:13:18.040Z,"off the east coast of Honshu, Japan",earthquake,7.92,5.707,0.085,44,reviewed,us,us
 2022-12-01T04:47:33.790Z,36.035,-117.7705,-0.3,1.01,ml,13,115,0.06093,0.22,ci,ci40382968,2022-12-01T04:51:08.091Z,"16km E of Coso Junction, CA",earthquake,0.6,31.61,0.191,12,automatic,ci,ci
+2022-12-01T04:43:52.410Z,37.474,-118.8741667,2.48,0.4,md,6,298,0.1212,0.02,nc,nc73813341,2022-12-01T10:03:11.402Z,"20km WSW of Toms Place, CA",earthquake,1.81,2.23,0.16,6,reviewed,nc,nc
 2022-12-01T04:38:24.500Z,34.0775,-117.5791667,14.7,1.09,ml,17,83,0.1739,0.32,ci,ci40382960,2022-12-01T04:42:03.654Z,"5km S of Rancho Cucamonga, CA",earthquake,0.72,1.54,0.248,30,automatic,ci,ci
 2022-12-01T04:26:09.380Z,32.9103333,-116.2488333,4.2,1.62,ml,50,67,0.06366,0.28,ci,ci40382952,2022-12-01T04:29:56.350Z,"28km ENE of Pine Valley, CA",earthquake,0.34,1.24,0.142,27,automatic,ci,ci
 2022-12-01T04:23:43.670Z,19.4745,-155.587,-1.22,2.45,md,29,103,,0.16,hv,hv73248537,2022-12-01T06:01:39.040Z,"Hawaii region, Hawaii",earthquake,0.34,0.15,0.058279967239393,8,reviewed,hv,hv
@@ -254,7 +255,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-11-30T10:20:20.210Z,37.4846667,-118.7815,3.93,0.62,md,8,269,0.1118,0.06,nc,nc73813066,2022-11-30T12:48:13.885Z,"12km SW of Toms Place, CA",earthquake,1.02,2.14,0.325,10,reviewed,nc,nc
 2022-11-30T10:11:17.350Z,61.1745,-152.236833333333,3.96,-0.07,ml,8,209,,0.12,av,av91724091,2022-12-01T03:11:20.160Z,"Southern Alaska",earthquake,0.58,0.31,0.21480200902745,8,reviewed,av,av
 2022-11-30T10:09:25.860Z,36.541,-89.6075,9.27,1.46,md,16,96,0.03759,0.08,nm,nm60501221,2022-11-30T16:06:08.820Z,"2 km N of Marston, Missouri",earthquake,0.36,0.71,0.0771741322792947,12,reviewed,nm,nm
-2022-11-30T10:02:34.256Z,63.4605,-147.9664,0,1.6,ml,,,,1.01,ak,ak022fcjgr29,2022-11-30T10:04:44.000Z,"Central Alaska",earthquake,,0.4,,,automatic,ak,ak
-2022-11-30T09:54:18.584Z,19.716,-109.3158,10,4.7,mb,127,176,6.989,0.81,us,us6000j5qu,2022-12-01T06:20:58.040Z,"Revilla Gigedo Islands region",earthquake,10.23,1.929,0.061,83,reviewed,us,us
-2022-11-30T09:54:06.250Z,19.1451663970947,-155.490005493164,31.25,2.25999999,md,47,158,,0.119999997,hv,hv73246602,2022-11-30T09:57:47.040Z,"6 km S of Pāhala, Hawaii",earthquake,0.63,0.769999981,0.899999976,21,automatic,hv,hv
-2022-11-30T09:53:51.410Z,38.8424988,-122.8424988,2.09,0.87,md,11,138,0.006725,0.01,nc,nc73813061,2022-11-30T10:14:14.782Z,"10km NW of The Geysers, CA",earthquake,0.42,0.47,,1,automatic,nc,nc
