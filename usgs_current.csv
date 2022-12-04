@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2022-12-04T22:56:15.525Z,60.9032,-148.0994,14.2,1.6,ml,,,,1.27,ak,ak022fjd2vio,2022-12-04T22:57:53.480Z,"34 km ENE of Whittier, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2022-12-04T22:27:17.618Z,61.4353,-149.9039,32.9,1.7,ml,,,,0.5,ak,ak022fjcwnwx,2022-12-04T22:29:12.760Z,"9 km NNE of Point MacKenzie, Alaska",earthquake,,0.2,,,automatic,ak,ak
 2022-12-04T22:24:58.870Z,19.449333190918,-155.597839355469,-2.19000005722046,2.0999999,md,16,87,,0.200000003,hv,hv73259132,2022-12-04T22:27:51.340Z,"Hawaii region, Hawaii",earthquake,0.34,0.479999989,0.899999976,7,automatic,hv,hv
 2022-12-04T22:13:47.485Z,61.3935,-149.6804,32,1.7,ml,,,,0.46,ak,ak022fjctq70,2022-12-04T22:15:53.159Z,"7 km SSE of Knik, Alaska",earthquake,,0.2,,,automatic,ak,ak
