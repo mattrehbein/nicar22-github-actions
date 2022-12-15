@@ -18,6 +18,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T15:21:23.860Z,37.7958336,-122.1951675,9.5,1.6,md,20,104,0.02069,0.06,nc,nc73818976,2022-12-15T16:07:10.398Z,"3km E of Oakland, CA",earthquake,0.28,0.59,0.41,16,automatic,nc,nc
 2022-12-15T15:11:14.590Z,19.1861667633057,-155.480163574219,34.9700012207031,1.99000001,md,43,148,,0.109999999,hv,hv73270502,2022-12-15T15:14:34.390Z,"1 km S of Pāhala, Hawaii",earthquake,0.55,0.730000019,1.00999999,15,automatic,hv,hv
 2022-12-15T15:08:25.070Z,36.8644981,-121.3586655,17.1,1.65,md,7,204,0.1074,0.06,nc,nc73818966,2022-12-15T15:40:10.231Z,"4km ENE of Hollister, CA",earthquake,1.21,1.97,0.15,4,automatic,nc,nc
+2022-12-15T15:06:14.660Z,35.308,-120.6186667,10.61,1.2,md,23,82,0.04013,0.09,nc,nc73818971,2022-12-15T17:41:41.705Z,"5km NE of San Luis Obispo, CA",earthquake,0.28,0.31,0.221,15,reviewed,nc,nc
 2022-12-15T14:54:43.654Z,62.9757,-148.0231,250,1.9,ml,,,,0.76,ak,ak022g1f7vxs,2022-12-15T14:58:41.414Z,"65 km SE of Cantwell, Alaska",earthquake,,9.2,,,automatic,ak,ak
 2022-12-15T14:51:19.160Z,19.1805000305176,-155.379837036133,34.7200012207031,1.87,md,46,168,,0.119999997,hv,hv73270482,2022-12-15T14:54:29.140Z,"10 km ESE of Pāhala, Hawaii",earthquake,0.71,0.810000002,0.340000004,13,automatic,hv,hv
 2022-12-15T14:42:45.279Z,-13.7928,165.9154,10,4.9,mb,26,139,6.898,0.76,us,us6000j9fh,2022-12-15T15:07:41.040Z,"177 km W of Sola, Vanuatu",earthquake,11.63,1.889,0.112,33,reviewed,us,us
@@ -115,7 +116,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-15T02:19:47.640Z,35.6673333,-118.1201667,2.43,0.69,ml,21,71,0.1035,0.12,ci,ci40145639,2022-12-15T15:36:10.846Z,"28km W of Inyokern, CA",earthquake,0.21,0.69,0.088,6,reviewed,ci,ci
 2022-12-15T02:16:03.460Z,40.4661674,-124.4993362,26.49,2.43,md,13,286,0.1238,0.07,nc,nc73818801,2022-12-15T03:22:12.753Z,"23km WSW of Ferndale, CA",earthquake,3.7,2,0.15,8,automatic,nc,nc
 2022-12-15T02:08:25.583Z,61.6838,-150.9544,62.9,1.7,ml,,,,0.33,ak,ak022g17sr9a,2022-12-15T02:10:04.191Z,"28 km WNW of Susitna, Alaska",earthquake,,0.6,,,automatic,ak,ak
-2022-12-15T01:57:27.430Z,37.3,-121.6683333,6.59,0.92,md,15,90,0.04112,0.08,nc,nc73818796,2022-12-15T17:13:08.759Z,"15km E of Seven Trees, CA",earthquake,0.3,0.47,0.207,16,reviewed,nc,nc
+2022-12-15T01:57:27.430Z,37.3,-121.6683333,6.59,0.92,md,15,90,0.04112,0.08,nc,nc73818796,2022-12-15T17:33:12.953Z,"15km E of Seven Trees, CA",earthquake,0.3,0.47,0.207,16,reviewed,nc,nc
 2022-12-15T01:56:05.620Z,38.8406677,-122.8348312,1.42,0.77,md,10,103,0.002138,0.01,nc,nc73818791,2022-12-15T02:35:12.466Z,"10km NW of The Geysers, CA",earthquake,0.31,0.66,0.5,10,automatic,nc,nc
 2022-12-15T01:55:00.960Z,33.8701667,-118.3886667,11.73,1.38,ml,31,139,0.04764,0.25,ci,ci40145631,2022-12-15T15:30:55.238Z,"1km NE of Hermosa Beach, CA",earthquake,0.48,0.34,0.165,20,reviewed,ci,ci
 2022-12-15T01:54:36.220Z,38.7936668,-122.7578354,0.71,1.44,md,19,81,0.007101,0.03,nc,nc73818786,2022-12-15T03:07:11.656Z,"2km N of The Geysers, CA",earthquake,0.2,0.41,0.16,19,automatic,nc,nc
@@ -193,5 +194,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2022-12-14T18:16:02.660Z,19.7135,-65.7535,82,3.58,md,4,304,1.4827,0.34,pr,pr2022348003,2022-12-14T19:05:04.922Z,"142 km N of Suárez, Puerto Rico",earthquake,6.88,15.98,0.13,3,reviewed,pr,pr
 2022-12-14T18:15:05.960Z,38.8306656,-122.8018341,1.79,1.11,md,23,41,0.009702,0.02,nc,nc73818656,2022-12-14T19:01:11.579Z,"7km W of Cobb, CA",earthquake,0.18,0.38,0.21,25,automatic,nc,nc
 2022-12-14T17:53:58.390Z,61.4321,-150.6238,45.5,1.6,ml,,,,0.43,ak,ak022fztgmlb,2022-12-14T17:56:14.510Z,"13 km SSW of Susitna, Alaska",earthquake,,1,,,automatic,ak,ak
-2022-12-14T17:40:16.469Z,35.81133333,-95.03666667,0,1.74,ml,45,125,0.3563300759,0.42,ok,ok2022ylio,2022-12-15T14:21:59.304Z,"1 km SE of Zeb, Oklahoma",quarry blast,,0.5,0.19,7,reviewed,ok,ok
-2022-12-14T17:33:33.540Z,17.954,-67.0313333333333,7.12,1.94,md,4,267,0.01965,0.03,pr,pr71387158,2022-12-14T17:54:40.660Z,"2 km SE of La Parguera, Puerto Rico",earthquake,0.52,0.76,0.00737535059220695,3,reviewed,pr,pr
