@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2022-12-27T20:34:17.250Z,35.2086667,-118.6748333,6.11,1.91,ml,36,72,0.0251,0.19,ci,ci40150671,2022-12-27T20:37:55.763Z,"14km E of Arvin, CA",earthquake,0.27,0.74,0.17,25,automatic,ci,ci
+2022-12-27T20:34:17.250Z,35.2086667,-118.6748333,6.11,1.91,ml,36,72,0.0251,0.19,ci,ci40150671,2022-12-27T20:45:15.690Z,"14km E of Arvin, CA",earthquake,0.27,0.74,0.17,25,automatic,ci,ci
+2022-12-27T20:34:01.559Z,-8.1218,120.2317,199.68,4.9,mb,44,68,2.528,1.27,us,us7000j0i7,2022-12-27T20:51:31.040Z,"56 km NE of Labuan Bajo, Indonesia",earthquake,7.55,7.292,0.099,35,reviewed,us,us
 2022-12-27T20:25:41.060Z,38.8404999,-122.8243332,1.92,1,md,19,68,0.008917,0.02,nc,nc73825831,2022-12-27T20:27:13.422Z,"9km WNW of Cobb, CA",earthquake,0.24,0.52,0.1,19,automatic,nc,nc
 2022-12-27T20:16:52.892Z,62.7738,-152.0022,9.7,1.4,ml,,,,0.3,ak,ak022gld0hvy,2022-12-27T20:19:38.093Z,"70 km WNW of Petersville, Alaska",earthquake,,0.3,,,automatic,ak,ak
 2022-12-27T19:58:01.648Z,61.9184,-149.3061,41.8,1.6,ml,,,,0.43,ak,ak022glcnyf8,2022-12-27T20:00:31.338Z,"19 km N of Fishhook, Alaska",earthquake,,0.7,,,automatic,ak,ak
