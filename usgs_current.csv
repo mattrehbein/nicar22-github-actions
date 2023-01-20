@@ -229,10 +229,8 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-01-19T05:39:28.350Z,33.155,-116.1098333,4,1.18,ml,46,48,0.04872,0.19,ci,ci40403840,2023-01-19T16:43:20.893Z,"2km ENE of Ocotillo Wells, CA",earthquake,0.2,0.53,0.146,24,reviewed,ci,ci
 2023-01-19T05:35:50.358Z,63.1944,-151.3398,8.8,1.6,ml,,,,1.44,ak,ak023viedcr,2023-01-19T05:37:52.141Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-01-19T05:24:07.170Z,38.8064995,-122.7608337,0.6,0.76,md,6,165,0.005931,0.01,nc,nc73833841,2023-01-19T05:51:14.035Z,"3km N of The Geysers, CA",earthquake,0.45,0.7,0.1,6,automatic,nc,nc
-2023-01-19T05:19:27.440Z,35.5366666666667,-83.2495,0.03,2.15,md,14,82,0.38,0.19,se,se60500303,2023-01-20T04:07:28.986Z,"Tennessee-North Carolina border region",earthquake,0.51,2.7,0.0900546348406577,12,reviewed,se,se
+2023-01-19T05:19:27.440Z,35.5366666666667,-83.2495,0.03,2.15,md,14,82,0.38,0.19,se,se60500303,2023-01-20T05:00:26.182Z,"Tennessee-North Carolina border region",earthquake,0.51,2.7,0.0900546348406577,12,reviewed,se,se
 2023-01-19T05:17:35.180Z,34.427,-117.9236667,9.14,1.35,ml,39,39,0.03417,0.16,ci,ci40403832,2023-01-19T16:32:00.040Z,"9km S of Pearblossom, CA",earthquake,0.16,0.38,0.144,27,reviewed,ci,ci
 2023-01-19T05:09:22.440Z,33.4013333,-116.3853333,7.61,0.51,ml,16,131,0.07595,0.13,ci,ci40403824,2023-01-19T16:22:46.093Z,"16km N of Borrego Springs, CA",earthquake,0.29,1.12,0.182,5,reviewed,ci,ci
 2023-01-19T05:08:21.186Z,40.1959,-119.6245,0,0.7,ml,2,318.83,0.086,0.0033,nn,nn00855034,2023-01-20T02:03:03.403Z,"27 km N of Sutcliffe, Nevada",earthquake,,0,0,1,reviewed,nn,nn
 2023-01-19T05:05:06.060Z,18.493,-66.7565,17.03,2.22,md,9,188,0.1456,0.2,pr,pr71393193,2023-01-19T09:50:00.180Z,"Puerto Rico region",earthquake,0.73,0.87,0.0785718119242091,6,reviewed,pr,pr
-2023-01-19T05:03:00.040Z,64.7143,-149.0949,23.5,1.4,ml,,,,0.62,ak,ak023vi7ek4,2023-01-19T05:04:41.377Z,"Central Alaska",earthquake,,0.6,,,automatic,ak,ak
-2023-01-19T04:55:02.710Z,40.5173333,-124.4071667,16.61,1.75,md,22,213,0.06756,0.1,nc,nc73833826,2023-01-19T09:09:10.262Z,"14km WSW of Ferndale, CA",earthquake,0.52,0.32,0.128,12,reviewed,nc,nc
