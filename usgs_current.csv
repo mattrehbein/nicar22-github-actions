@@ -228,5 +228,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-10T08:17:28.501Z,34.995,35.2889,10,4.2,mb,28,206,1.608,0.74,us,us6000jn19,2023-02-10T14:17:06.732Z,"55 km WNW of Ţarţūs, Syria",earthquake,5.34,1.93,0.187,8,reviewed,us,us
 2023-02-10T08:03:35.740Z,38.8069992,-122.7768326,2.14,1.09,md,26,71,0.006938,0.02,nc,nc73844431,2023-02-10T09:01:16.047Z,"4km NNW of The Geysers, CA",earthquake,0.22,0.37,0.18,26,automatic,nc,nc
 2023-02-10T07:43:43.385Z,59.8871,-152.4246,85.8,1.7,ml,,,,0.43,ak,ak0231vxgkma,2023-02-10T07:45:28.964Z,"35 km WNW of Anchor Point, Alaska",earthquake,,1.1,,,automatic,ak,ak
-2023-02-10T07:27:18.510Z,58.1885,-155.364166666667,2.26,-0.09,ml,7,162,,0.07,av,av91758136,2023-02-11T02:55:53.460Z,"87 km NW of Karluk, Alaska",earthquake,0.31,0.38,0.182882569083447,7,reviewed,av,av
-2023-02-10T07:23:42.743Z,62.9585,-160.0815,9.188,2.5,ml,30,47,0.633,0.79,us,us6000jn17,2023-02-10T13:19:30.040Z,"Central Alaska",earthquake,4.75,7.97,0.048,58,reviewed,us,us
