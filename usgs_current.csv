@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-18T16:37:45.938Z,36.9626,-117.5012,2.5,1.5,ml,22,189.57,0.294,0.3152,nn,nn00856220,2023-02-18T16:39:04.663Z,"62 km NNE of Keeler, California",earthquake,,6.6,1,13,automatic,nn,nn
 2023-02-18T16:23:27.231Z,65.505,-148.156,12.5,1.6,ml,,,,0.52,ak,ak02329azxfw,2023-02-18T16:28:42.911Z,"18 km E of Livengood, Alaska",earthquake,,0.4,,,automatic,ak,ak
 2023-02-18T16:07:37.737Z,62.2539,-150.7915,66.7,2.7,ml,,,,0.7,ak,ak02329awist,2023-02-18T16:10:08.509Z,"27 km S of Petersville, Alaska",earthquake,,0.7,,,automatic,ak,ak
 2023-02-18T16:04:37.960Z,33.8938333,-117.0675,3.47,0.68,ml,16,66,0.07734,0.21,ci,ci40416016,2023-02-18T16:08:07.319Z,"9km WSW of Beaumont, CA",earthquake,0.4,1.36,0.094,14,automatic,ci,ci
@@ -189,4 +190,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-02-17T16:57:08.649Z,58.2523,-155.1264,1.1,1.4,ml,,,,0.14,ak,ak02327nntv4,2023-02-18T00:47:39.710Z,"85 km NNW of Karluk, Alaska",earthquake,,2.5,,,automatic,ak,ak
 2023-02-17T16:54:27.931Z,63.0028,-149.8086,72.9,1.6,ml,,,,0.4,ak,ak02327nn84w,2023-02-17T16:56:42.166Z,"61 km SW of Cantwell, Alaska",earthquake,,0.8,,,automatic,ak,ak
 2023-02-17T16:52:27.050Z,44.7971667,-110.9791667,7.41,0.35,md,6,248,0.04244,0.12,uu,uu60531486,2023-02-17T18:02:10.340Z,"17 km E of Hebgen Lake Estates, Montana",earthquake,1.36,0.89,0.434,5,reviewed,uu,uu
-2023-02-17T16:33:53.970Z,43.721,-121.2445,-1.74,0.32,ml,6,103,0.008261,0.35,uw,uw61907036,2023-02-17T21:47:12.170Z,"21 km ESE of Three Rivers, Oregon",earthquake,1.28,1.36,0.09016438629448031,5,reviewed,uw,uw
