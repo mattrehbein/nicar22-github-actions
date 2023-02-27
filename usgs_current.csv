@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-02-27T08:59:57.330Z,32.9095,-116.2455,5.08,1.26,ml,32,62,0.06627,0.22,ci,ci40419144,2023-02-27T09:03:33.054Z,"28km SSW of Ocotillo Wells, CA",earthquake,0.3,0.74,0.171,19,automatic,ci,ci
 2023-02-27T08:14:05.850Z,32.4105,-116.8546667,17.84,1.2,ml,13,223,0.1886,0.13,ci,ci40419136,2023-02-27T08:17:29.258Z,"19km ENE of Rosarito, B.C., MX",earthquake,0.61,0.68,0.12,7,automatic,ci,ci
 2023-02-27T08:01:38.680Z,33.3833333,-116.4026667,10.11,1.52,ml,53,53,0.1155,0.19,ci,ci40419128,2023-02-27T08:13:06.510Z,"14km N of Borrego Springs, CA",earthquake,0.22,0.5,0.134,26,automatic,ci,ci
 2023-02-27T07:43:40.180Z,35.6305,-117.4446667,10.71,1.32,ml,9,181,0.1239,0.17,ci,ci40419120,2023-02-27T07:47:13.592Z,"16km SSW of Searles Valley, CA",earthquake,0.7,1.22,0.09,13,automatic,ci,ci
