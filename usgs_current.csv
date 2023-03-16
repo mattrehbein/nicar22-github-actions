@@ -1,4 +1,5 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-16T10:47:05.125Z,64.572,-147.9448,16,1.2,ml,,,,0.74,ak,ak0233g7jg4w,2023-03-16T10:48:55.500Z,"Central Alaska",earthquake,,0.2,,,automatic,ak,ak
 2023-03-16T10:21:00.730Z,33.4691667,-116.5586667,8.73,0.83,ml,30,43,0.04441,0.18,ci,ci40185439,2023-03-16T10:24:34.095Z,"14km SE of Anza, CA",earthquake,0.25,0.48,0.186,22,automatic,ci,ci
 2023-03-16T10:18:14.310Z,33.6621666,-116.7618332,13.79,1.11,ml,40,68,0.06299,0.13,ci,ci40185431,2023-03-16T10:21:42.007Z,"10km SSW of Idyllwild, CA",earthquake,0.27,0.46,0.168,12,automatic,ci,ci
 2023-03-16T10:17:03.180Z,33.671,-116.759,14.44,0.59,ml,19,68,0.05479,0.15,ci,ci40185423,2023-03-16T10:20:38.000Z,"8km SSW of Idyllwild, CA",earthquake,0.45,0.51,0.124,15,automatic,ci,ci
