@@ -1,4 +1,7 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
+2023-03-19T09:56:17.550Z,38.776165,-122.7593307,0.19,1.08,md,15,57,0.007396,0.08,nc,nc73859200,2023-03-19T09:57:51.889Z,"0km WSW of The Geysers, CA",earthquake,0.24,0.48,0.21,13,automatic,nc,nc
+2023-03-19T09:53:33.200Z,35.5191667,-118.3871667,4.74,2.7,ml,43,31,0.1598,0.17,ci,ci40186967,2023-03-19T09:59:51.262Z,"12km SE of Bodfish, CA",earthquake,0.2,1.33,0.271,26,automatic,ci,ci
+2023-03-19T09:49:08.830Z,33.536,-116.728,4.4,0.64,ml,23,56,0.03033,0.14,ci,ci40186959,2023-03-19T09:52:39.433Z,"6km WSW of Anza, CA",earthquake,0.21,0.34,0.122,17,automatic,ci,ci
 2023-03-19T09:44:18.250Z,38.7888336,-122.7470016,0.9,0.79,md,8,159,0.009784,0.04,nc,nc73859185,2023-03-19T09:45:56.753Z,"2km NNE of The Geysers, CA",earthquake,0.47,0.91,0.23,7,automatic,nc,nc
 2023-03-19T09:21:06.050Z,59.8273,-152.7719,88.3,2.5,ml,,,,0.4,ak,ak0233l5ehgt,2023-03-19T09:49:16.040Z,"53 km W of Anchor Point, Alaska",earthquake,,0.6,,,automatic,ak,ak
 2023-03-19T09:13:26.594Z,64.9356,-148.491,12.1,1.1,ml,,,,0.76,ak,ak0233l5ctbn,2023-03-19T09:16:04.675Z,"24 km WNW of Ester, Alaska",earthquake,,0.7,,,automatic,ak,ak
