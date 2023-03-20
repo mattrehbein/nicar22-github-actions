@@ -1,5 +1,6 @@
 time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,type,horizontalError,depthError,magError,magNst,status,locationSource,magSource
-2023-03-20T04:51:36.880Z,38.8431664,-122.8151703,1.16,1.47,md,23,77,0.01313,0.02,nc,nc73859595,2023-03-20T04:53:14.643Z,"8km WNW of Cobb, CA",earthquake,0.22,0.34,0.12,25,automatic,nc,nc
+2023-03-20T04:59:30.340Z,38.833168,-122.7969971,1.92,1.21,md,17,180,0.01413,0.02,nc,nc73859600,2023-03-20T05:01:09.486Z,"6km W of Cobb, CA",earthquake,0.37,0.45,0.18,20,automatic,nc,nc
+2023-03-20T04:51:36.880Z,38.8431664,-122.8151703,1.16,1.47,md,23,77,0.01313,0.02,nc,nc73859595,2023-03-20T05:09:16.753Z,"8km WNW of Cobb, CA",earthquake,0.22,0.34,0.12,25,automatic,nc,nc
 2023-03-20T04:41:38.110Z,17.9023333333333,-66.8363333333333,10.34,2.37,md,6,232,0.08307,0.05,pr,pr71400893,2023-03-20T04:57:50.820Z,"Puerto Rico region",earthquake,0.65,0.78,0.0922749863313408,5,reviewed,pr,pr
 2023-03-20T04:30:51.290Z,38.831665,-122.8078308,2.38,1.09,md,20,46,0.008442,0.02,nc,nc73859585,2023-03-20T04:48:15.630Z,"7km W of Cobb, CA",earthquake,0.23,0.57,0.13,21,automatic,nc,nc
 2023-03-20T04:10:07.130Z,36.5053329,-121.0861664,5.81,2.01,md,21,77,0.08209,0.09,nc,nc73859575,2023-03-20T04:25:16.504Z,"6km ESE of Pinnacles, CA",earthquake,0.26,1.4,0.13,20,automatic,nc,nc
@@ -19,7 +20,7 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-20T02:50:01.710Z,38.7091675,-122.7835007,3.87,1.35,md,17,232,0.02053,0.03,nc,nc73859525,2023-03-20T04:32:11.664Z,"8km SSW of The Geysers, CA",earthquake,0.74,0.93,0.16,16,automatic,nc,nc
 2023-03-20T02:48:53.874Z,36.9797,-116.1194,8.4,0.3,ml,8,121.07,0.069,0.0976,nn,nn00857247,2023-03-20T02:49:43.216Z,"57 km E of Beatty, Nevada",earthquake,,1.2,1.19,6,automatic,nn,nn
 2023-03-20T02:34:10.920Z,33.6961667,-116.7901667,15.89,0.77,ml,24,101,0.0651,0.16,ci,ci40187327,2023-03-20T02:37:43.205Z,"8km SW of Idyllwild, CA",earthquake,0.36,0.47,0.207,14,automatic,ci,ci
-2023-03-20T02:27:11.320Z,38.8338318,-122.7860031,2.02,1.26,md,20,63,0.005691,0.02,nc,nc73859515,2023-03-20T04:07:11.401Z,"6km WNW of Cobb, CA",earthquake,0.24,0.4,0.19,20,automatic,nc,nc
+2023-03-20T02:27:11.320Z,38.8338318,-122.7860031,2.02,1.26,md,20,63,0.005691,0.02,nc,nc73859515,2023-03-20T05:06:14.735Z,"6km WNW of Cobb, CA",earthquake,0.24,0.4,0.19,20,automatic,nc,nc
 2023-03-20T02:25:57.710Z,46.826,-121.918,9.29,1.21,ml,28,97,0.02639,0.12,uw,uw61903482,2023-03-20T04:12:25.490Z,"11 km NE of Ashford, Washington",earthquake,0.26,0.33,0.14590712677745143,17,reviewed,uw,uw
 2023-03-20T02:24:20.590Z,33.512,-116.7383333,2.44,0.25,ml,13,173,0.05181,0.18,ci,ci40187311,2023-03-20T02:27:55.594Z,"8km SW of Anza, CA",earthquake,0.82,0.51,0.101,5,automatic,ci,ci
 2023-03-20T02:14:22.740Z,36.0478325,-120.616333,2.48,2.28,md,27,78,0.02654,0.1,nc,nc73859510,2023-03-20T04:38:17.570Z,"24km NW of Parkfield, CA",earthquake,0.29,0.7,0.14,18,automatic,nc,nc
@@ -222,7 +223,3 @@ time,latitude,longitude,depth,mag,magType,nst,gap,dmin,rms,net,id,updated,place,
 2023-03-19T05:12:24.660Z,36.6450005,-121.2561646,5.03,1.95,md,21,135,0.06015,0.11,nc,nc73859060,2023-03-19T06:57:15.154Z,"16km NW of Pinnacles, CA",earthquake,0.38,1.49,0.09,20,automatic,nc,nc
 2023-03-19T05:12:06.870Z,33.539,-116.7286667,4.63,0.36,ml,11,97,0.0273,0.1,ci,ci40186831,2023-03-19T14:04:27.539Z,"5km WSW of Anza, CA",earthquake,0.35,0.25,0.095,11,reviewed,ci,ci
 2023-03-19T05:09:41.470Z,33.7108333,-116.8183333,13.27,0.89,ml,31,50,0.08428,0.17,ci,ci40186823,2023-03-19T14:04:48.662Z,"8km ESE of Valle Vista, CA",earthquake,0.27,0.52,0.133,24,reviewed,ci,ci
-2023-03-19T05:06:50.590Z,46.898,-121.93983333333334,6.59,0.11,ml,17,132,0.005949,0.1,uw,uw61903277,2023-03-19T06:32:14.970Z,"17 km NNE of Ashford, Washington",earthquake,0.28,0.5,0.10465773335502034,14,reviewed,uw,uw
-2023-03-19T05:01:57.755Z,58.1002,-155.494,15,1,ml,,,,0.92,ak,ak0233l2wkpr,2023-03-19T05:03:33.156Z,"85 km NW of Karluk, Alaska",earthquake,,1,,,automatic,ak,ak
-2023-03-19T05:00:17.100Z,38.8303337,-122.8168335,1.88,1.25,md,25,47,0.008711,0.02,nc,nc73859050,2023-03-19T06:28:15.967Z,"8km NW of The Geysers, CA",earthquake,0.2,0.34,0.2,25,automatic,nc,nc
-2023-03-19T04:59:55.670Z,33.2485,-115.8005,3.14,1.15,ml,22,48,0.1302,0.22,ci,ci40186815,2023-03-19T05:03:28.722Z,"13km SSW of Bombay Beach, CA",earthquake,0.44,0.9,0.174,23,automatic,ci,ci
